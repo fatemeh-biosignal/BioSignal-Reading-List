@@ -1,5 +1,3 @@
-# BioSignal-Reading-List
-A collection of notes and references on compressive sensing for biomedical signals (ECG, EEG).
 # BioSignal Reading List
 
 A personal collection of notes, papers, and references on:
