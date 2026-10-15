@@ -16,3 +16,8 @@ with a focus on low-power biomedical signal acquisition and processing.
 - Compressive Sensing matrices for ECG
 - On-device reconstruction algorithms (FISTA, OMP)
 - SAR ADC design for low-power biosignals
+## Files in this repo
+
+- `README.md` — overview
+- `papers.md` — list of papers I'm reading
+- `notes.md` — short daily research notes
