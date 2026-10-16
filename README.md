@@ -21,3 +21,4 @@ with a focus on low-power biomedical signal acquisition and processing.
 - `README.md` — overview
 - `papers.md` — list of papers I'm reading
 - `notes.md` — short daily research notes
+- `reading-log.md` — summaries of papers I read
