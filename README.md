@@ -22,3 +22,5 @@ with a focus on low-power biomedical signal acquisition and processing.
 - `papers.md` — list of papers I'm reading
 - `notes.md` — short daily research notes
 - `reading-log.md` — summaries of papers I read
+- `project-idea.md` — overview of my proposed ECG project
+- `concepts.md` — key theoretical concepts for my project
