@@ -1,27 +1,23 @@
 # BioSignal Reading List
 
-A personal collection of notes, papers, and references on:
+Welcome to my research repository! I am an Electrical Engineer transitioning into Medicine, exploring the intersection of electronics and biomedical signal processing.
 
-- Compressive Sensing for biomedical signals (ECG, EEG)
-- Low-power wearable health monitoring
-- TinyML for on-device biomedical signal processing
+## 🎯 My Project Focus
+Designing a **low-power wearable ECG monitoring system** using **Compressive Sensing (CS)** and **TinyML** for on-device arrhythmia detection.
 
-## Why this repo?
+## 📂 Repository Structure
 
-I am an Electrical Engineer exploring the intersection of electronics and medicine,
-with a focus on low-power biomedical signal acquisition and processing.
+Here is a guide to what you can find in this repository:
 
-## Topics I am currently reading about
+- 💡 **[Project Idea](project-idea.md)** — Overview of my proposed ECG system.
+- 🧠 **[Key Concepts](concepts.md)** — Theoretical foundations (CS, TinyML, Hardware).
+- 📚 **[Reading Log](reading-log.md)** — Summaries of papers I have read.
+- 📄 **[Papers List](papers.md)** — A collection of relevant papers on my radar.
+- 📝 **[Daily Notes](notes.md)** — My daily research thoughts and progress.
+- 🐍 **[Python Basics](python-basics.md)** — My journey learning Python for signal processing.
+- 💻 **[ECG Simulation](ecg_simulation.py)** — My first Python script for signal simulation.
 
-- Compressive Sensing matrices for ECG
-- On-device reconstruction algorithms (FISTA, OMP)
-- SAR ADC design for low-power biosignals
-## Files in this repo
-
-- `README.md` — overview
-- `papers.md` — list of papers I'm reading
-- `notes.md` — short daily research notes
-- `reading-log.md` — summaries of papers I read
-- `project-idea.md` — overview of my proposed ECG project
-- `concepts.md` — key theoretical concepts for my project
-- `ecg_simulation.py` — my first Python script for ECG signal simulation
+## 🌱 Current Status
+- 🔭 Currently studying for the Medical Entrance Exam (Konkur).
+- 🧪 Building my foundation in Biomedical Signal Processing (15 minutes a day!).
+- 📅 Preparing for the Khwarizmi International Award in 2027.
