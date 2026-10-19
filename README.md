@@ -4,7 +4,6 @@ Welcome to my research repository! I am an Electrical Engineer exploring the int
 
 ## 🎯 My Project Focus
 Designing a **low-power wearable ECG monitoring system** using **Compressive Sensing (CS)** and **TinyML** for on-device arrhythmia detection.
-
 ## 📂 Repository Structure
 
 Here is a guide to what you can find in this repository:
@@ -17,6 +16,7 @@ Here is a guide to what you can find in this repository:
 - 🐍 **[Python Basics](python-basics.md)** — My journey learning Python for signal processing.
 - 💻 **[ECG Simulation](ecg_simulation.py)** — My first Python script for signal simulation.
 - 📉 **[Compressed Sensing Demo](compressed_sensing_demo.py)** — Core algorithm for data compression.
+- 
 ## 🌱 Current Status
 - 🧪 Actively building my foundation in Biomedical Signal Processing and embedded systems.
 - 📅 Preparing a research proposal for the Khwarizmi International Award (submission in Fall 2027).
