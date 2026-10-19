@@ -19,4 +19,4 @@ Here is a guide to what you can find in this repository:
 
 ## 🌱 Current Status
 - 🧪 Actively building my foundation in Biomedical Signal Processing and embedded systems.
-- 📅 Preparing a research proposal for the Khwarizmi International Award in 2027.
+- 📅 Preparing a research proposal for the Khwarizmi International Award (submission in Fall 2027)..
