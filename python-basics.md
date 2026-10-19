@@ -1,17 +1,25 @@
-# Python Basics for Biomedical Signal Processing
+# My Python Learning Journey
 
-Since I have a background in Electrical Engineering but I am new to Python, I am documenting my learning journey here. My goal is to use Python for ECG signal simulation and Compressive Sensing.
+I am an Electrical Engineer learning Python for Biomedical Signal Processing. 
+My goal is to simulate ECG signals and test algorithms like Compressive Sensing.
 
----
+## What I have learned so far:
 
-## درس ۱: پایتون چیست؟
-پایتون یک زبان برنامه‌نویسی است که در علم داده و پردازش سیگنال بسیار محبوب است. کدهای آن تقریباً شبیه زبان انگلیسی خوانده می‌شوند، به همین دلیل برای شروع یادگیری فوق‌العاده است. ما از پایتون استفاده می‌کنیم تا سیگنال‌های قلبی (ECG) را شبیه‌سازی کنیم و روی آن‌ها الگوریتم‌های فشرده‌سازی را تست کنیم.
+### 1. Variables (متغیرها)
+Variables are like boxes to store data.
+- `heart_rate = 72` (A whole number)
+- `patient_name = "Fatemeh"` (A text)
 
----
+### 2. Libraries (کتابخانه‌ها)
+In Python, we use libraries to do heavy math without writing everything from scratch.
+- **NumPy:** For arrays and math.
+- **Matplotlib:** For drawing graphs.
+- **SciPy:** For signal processing (like filtering noise).
 
-## درس ۲: متغیرها (Variables)
-متغیر را مثل یک جعبه در نظر بگیر که یک مقدار داخل آن ذخیره می‌کنی.
-```python
-heart_rate = 72          # یک عدد صحیح (ضربان قلب)
-signal_amplitude = 1.5   # یک عدد اعشاری (دامنه سیگنال)
-patient_name = "Fatemeh" # یک متن (اسم بیمار)
+To use them, we write:
+`import numpy as np`
+`import matplotlib.pyplot as plt`
+
+### 3. My First Simulation Code
+I wrote a simple script to generate a fake "heartbeat" signal and plot it. 
+(I will run this code in the future to see the graph).
