@@ -16,7 +16,7 @@ Here is a guide to what you can find in this repository:
 - 📝 **[Daily Notes](notes.md)** — My daily research thoughts and progress.
 - 🐍 **[Python Basics](python-basics.md)** — My journey learning Python for signal processing.
 - 💻 **[ECG Simulation](ecg_simulation.py)** — My first Python script for signal simulation.
-
+- 📉 **[Compressed Sensing Demo](compressed_sensing_demo.py)** — Core algorithm for data compression.
 ## 🌱 Current Status
 - 🧪 Actively building my foundation in Biomedical Signal Processing and embedded systems.
 - 📅 Preparing a research proposal for the Khwarizmi International Award (submission in Fall 2027).
