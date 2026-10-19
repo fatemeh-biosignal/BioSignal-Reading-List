@@ -17,7 +17,5 @@ Here is a guide to what you can find in this repository:
 - 🐍 **[Python Basics](python-basics.md)** — My journey learning Python for signal processing.
 - 💻 **[ECG Simulation](ecg_simulation.py)** — My first Python script for signal simulation.
 
-## 🌱 Current Status
-- 🔭 Currently studying for the Medical Entrance Exam (Konkur).
-- 🧪 Building my foundation in Biomedical Signal Processing (15 minutes a day!).
+## 🌱 Current Statusr
 - 📅 Preparing for the Khwarizmi International Award in 2027.
