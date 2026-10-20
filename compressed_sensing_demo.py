@@ -36,4 +36,32 @@ if __name__ == "__main__":
     print(f"Compressed samples: {len(compressed)}")
     
     # In the next phase, I will add the reconstruction algorithm (like OMP or FISTA)
-    # to recover the full signal from these 30% measurements.
+    # to recover the full signal from these 30% measurements.      
+    # --- Plotting the results ---
+    plt.figure(figsize=(10, 6))
+
+    # 1. Plot the original signal
+    plt.subplot(2, 1, 1)
+    plt.plot(time, ecg, label="Original ECG", color='blue')
+    plt.title("Original Signal (100% samples)")
+    plt.xlabel("Time (s)")
+    plt.ylabel("Amplitude")
+    plt.grid(True)
+    plt.legend()
+
+    # 2. Plot the compressed signal (sub-sampled)
+    plt.subplot(2, 1, 2)
+    # Show the original signal in the background (faded)
+    plt.plot(time, ecg, label="Original ECG (faded)", color='lightblue', alpha=0.5) 
+    # Show the compressed points in red
+    plt.scatter(time[indices], compressed, color='red', label="Compressed Samples (30%)")
+    plt.title("Compressed Signal (Sub-sampled)")
+    plt.xlabel("Time (s)")
+    plt.ylabel("Amplitude")
+    plt.grid(True)
+    plt.legend()
+
+    plt.tight_layout()
+    plt.show()
+
+    print("Plot generated. In a real environment, a graph window would open here.")
