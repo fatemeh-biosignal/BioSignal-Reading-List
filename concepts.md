@@ -18,3 +18,7 @@ This file contains the core concepts I am learning and how they apply to my wear
 - **What it is:** Choosing components (ADC, AFE, MCU) and designing circuits that consume minimal power.
 - **Why it matters:** Wearable devices need to last for days or weeks on a single battery charge.
 - **How I will use it:** I will select a low-power Analog Front-End (AFE) and a SAR ADC to acquire the ECG signal efficiently.
+- ## 4. Arrhythmia (آریتمی قلبی)
+- **What it is (چیست؟):** Arrhythmia is an irregular heartbeat (heart rhythm disorder). It means the heart beats too fast, too slow, or with an irregular pattern.
+- **Why it matters (چرا مهم است؟):** Many arrhythmias are harmless, but some can lead to serious complications like stroke or heart failure. Early detection is crucial for saving lives.
+- **How my project helps (پروژه من چطور کمک می‌کند؟):** By using a low-power wearable ECG device with on-device TinyML, we can monitor the heart continuously. The device can detect abnormal rhythms (like Atrial Fibrillation) in real-time and alert the patient or doctor before a critical event occurs.
