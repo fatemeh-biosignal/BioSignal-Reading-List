@@ -11,3 +11,12 @@ Designing a low-power wearable ECG system using:
 
 ## Why this matters
 This connects my background in Electrical Engineering with my future in Medicine. It aims to create a practical, low-cost solution for remote healthcare.
+## 🫀 Target Medical Condition: Atrial Fibrillation (AFib)
+
+While my system aims to detect general arrhythmias, my primary target is **Atrial Fibrillation (AFib)**. 
+
+**Why AFib?**
+- It is the most common serious heart rhythm abnormality.
+- It often occurs intermittently (Paroxysmal AFib), meaning a standard 10-second ECG at a clinic might miss it entirely.
+- Continuous monitoring with a low-power wearable (like my proposed device) is the most effective way to catch it.
+- Early detection of AFib can prevent strokes.
