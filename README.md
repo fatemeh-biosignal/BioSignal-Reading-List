@@ -16,7 +16,17 @@ Here is a guide to what you can find in this repository:
 - 🐍 **[Python Basics](python-basics.md)** — My journey learning Python for signal processing.
 - 💻 **[ECG Simulation](ecg_simulation.py)** — My first Python script for signal simulation.
 - 📉 **[Compressed Sensing Demo](compressed_sensing_demo.py)** — Core algorithm for data compression.
-- 
+- ⚙️ **[Requirements](requirements.txt)** — Dependencies for running the code.
 ## 🌱 Current Status
 - 🧪 Actively building my foundation in Biomedical Signal Processing and embedded systems.
 - 📅 Preparing a research proposal for the Khwarizmi International Award (submission in Fall 2027).
+## 🚀 How to Run the Code
+
+If you want to run the Python scripts in this repository:
+1. Make sure you have Python installed.
+2. Install the required libraries by running:
+   `pip install -r requirements.txt`
+3. Run the ECG simulation script:
+   `python ecg_simulation.py`
+4. Run the Compressive Sensing demo:
+   `python compressed_sensing_demo.py`
