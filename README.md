@@ -2,6 +2,7 @@
 ![Focus](https://img.shields.io/badge/Focus-Biomedical_Signal_Processing-red)
 ![Goal](https://img.shields.io/badge/Goal-Khwarizmi_Award_2027-green)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Conference](https://img.shields.io/badge/Target-ICEE_2027-blueviolet)
 
 # BioSignal Reading List
 
