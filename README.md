@@ -26,6 +26,7 @@ Here is a guide to what you can find in this repository:
 ## 🌱 Current Status
 - 🧪 Actively building my foundation in Biomedical Signal Processing and embedded systems.
 - 📅 Preparing a research proposal for the Khwarizmi International Award (submission in Fall 2027).
+- 🎤 Preparing a paper for the 33rd Iranian Conference on Electrical Engineering (ICEE 2027) in May 2027.
 ## 🚀 How to Run the Code
 
 If you want to run the Python scripts in this repository:
