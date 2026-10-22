@@ -21,3 +21,8 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Successfully added plotting code to `compressed_sensing_demo.py`.
 - Learned how to use `plt.subplot` to show two graphs side-by-side.
 - The red dots will represent the 30% of samples we kept, while the blue line is the original.
+
+## October 22, 2026
+- Created `reconstruction_demo.py` to demonstrate how to recover a signal from compressed samples.
+- Learned how `np.interp` works in Python (Linear interpolation for missing points).
+- Note: Linear interpolation is just a temporary placeholder. In the next phase, I will implement the OMP algorithm for more accurate reconstruction.
