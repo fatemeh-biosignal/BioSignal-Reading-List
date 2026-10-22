@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![Focus](https://img.shields.io/badge/Focus-Biomedical_Signal_Processing-red)
+![Goal](https://img.shields.io/badge/Goal-Khwarizmi_Award_2027-green)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
 # BioSignal Reading List
 
 Welcome to my research repository! I am an Electrical Engineer exploring the intersection of electronics and biomedical signal processing.
