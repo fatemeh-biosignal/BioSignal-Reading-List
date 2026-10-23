@@ -23,6 +23,7 @@ Here is a guide to what you can find in this repository:
 - 💻 **[ECG Simulation](ecg_simulation.py)** — My first Python script for signal simulation.
 - 📉 **[Compressed Sensing Demo](compressed_sensing_demo.py)** — Core algorithm for data compression.
 - 🔄 **[Reconstruction Demo](reconstruction_demo.py)** — Recovering signals from compressed samples.
+- - 🫀 **[Real ECG Analysis](real_ecg_analysis.py)** — Signal filtering and noise removal.
 - ⚙️ **[Requirements](requirements.txt)** — Dependencies for running the code.
 ## 🌱 Current Status
 - 🧪 Actively building my foundation in Biomedical Signal Processing and embedded systems.
