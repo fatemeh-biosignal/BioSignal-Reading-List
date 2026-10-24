@@ -33,3 +33,5 @@ Short notes and observations from my daily reading on biomedical signal processi
 ## October 24, 2026
 - Created `results_report.md` to summarize the simulations and algorithms implemented so far.
 - This report will be the foundation for the ICEE 2027 paper and the Khwarizmi proposal.
+- Created `math_model.md` documenting the core mathematical equations of Compressive Sensing (y = Phi * x, L1-minimization).
+- This document will be the theoretical foundation for the OMP algorithm implementation.
