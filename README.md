@@ -39,3 +39,4 @@ If you want to run the Python scripts in this repository:
    `python ecg_simulation.py`
 4. Run the Compressive Sensing demo:
    `python compressed_sensing_demo.py`
+- 📊 **[Progress Report](results_report.md)** — Summary of my simulations and results so far.
