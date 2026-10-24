@@ -26,7 +26,10 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `reconstruction_demo.py` to demonstrate how to recover a signal from compressed samples.
 - Learned how `np.interp` works in Python (Linear interpolation for missing points).
 - Note: Linear interpolation is just a temporary placeholder. In the next phase, I will implement the OMP algorithm for more accurate reconstruction.
-### November 1, 2026
+## October 23, 2026
 - Created `real_ecg_analysis.py` to simulate real-world ECG data and apply noise filtering.
 - Learned how `np.convolve` works in Python (Moving average filter for noise reduction).
 - Note: Filtering is a necessary step before applying Compressive Sensing to ensure data quality.
+## October 24, 2026
+- Created `results_report.md` to summarize the simulations and algorithms implemented so far.
+- This report will be the foundation for the ICEE 2027 paper and the Khwarizmi proposal.
