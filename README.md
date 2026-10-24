@@ -16,6 +16,7 @@ Here is a guide to what you can find in this repository:
 
 - 💡 **[Project Idea](project-idea.md)** — Overview of my proposed ECG system.
 - 🧠 **[Key Concepts](concepts.md)** — Theoretical foundations (CS, TinyML, Hardware).
+- 🧮 **[Math Model](math_model.md)** — Mathematical foundations of Compressive Sensing.
 - 📚 **[Reading Log](reading-log.md)** — Summaries of papers I have read.
 - 📄 **[Papers List](papers.md)** — A collection of relevant papers on my radar.
 - 📝 **[Daily Notes](notes.md)** — My daily research thoughts and progress.
