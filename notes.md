@@ -35,3 +35,7 @@ Short notes and observations from my daily reading on biomedical signal processi
 - This report will be the foundation for the ICEE 2027 paper and the Khwarizmi proposal.
 - Created `math_model.md` documenting the core mathematical equations of Compressive Sensing (y = Phi * x, L1-minimization).
 - This document will be the theoretical foundation for the OMP algorithm implementation.
+## October 26, 2026
+- Created `omp_reconstruction.py` to implement the Orthogonal Matching Pursuit (OMP) algorithm.
+- This is a major upgrade from linear interpolation, using least squares optimization to recover the signal.
+- Learned how to use `np.linalg.lstsq` in Python for solving matrix equations.
