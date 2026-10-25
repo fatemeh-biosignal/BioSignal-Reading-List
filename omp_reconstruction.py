@@ -76,3 +76,6 @@ if __name__ == "__main__":
     plt.show()
     
     print("OMP Algorithm executed successfully.")
+    # Calculate and print the Mean Squared Error (MSE)
+    mse = np.mean((ecg - reconstructed_ecg) ** 2)
+    print(f"Mean Squared Error (MSE) for OMP: {mse:.6f}")
