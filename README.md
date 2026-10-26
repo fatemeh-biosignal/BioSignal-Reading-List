@@ -25,6 +25,7 @@ Here is a guide to what you can find in this repository:
 - 📝 **[Daily Notes](notes.md)** — My daily research thoughts and progress.
 - 🐍 **[Python Basics](python-basics.md)** — My journey learning Python for signal processing.
 - 💻 **[ECG Simulation](ecg_simulation.py)** — My first Python script for signal simulation.
+- 📥 **[Load Real Data](load_real_data.py)** — Simulating the loading of real MIT-BIH datasets.
 - 📉 **[Compressed Sensing Demo](compressed_sensing_demo.py)** — Core algorithm for data compression.
 - 🔄 **[Reconstruction Demo](reconstruction_demo.py)** — Recovering signals from compressed samples.
 - 🧠 **[OMP Algorithm](omp_reconstruction.py)** — Advanced signal reconstruction using Orthogonal Matching Pursuit.
