@@ -39,3 +39,7 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `omp_reconstruction.py` to implement the Orthogonal Matching Pursuit (OMP) algorithm.
 - This is a major upgrade from linear interpolation, using least squares optimization to recover the signal.
 - Learned how to use `np.linalg.lstsq` in Python for solving matrix equations.
+## October 26, 2026
+- Created `load_real_data.py` to simulate loading a real MIT-BIH ECG record.
+- The script accounts for the 360 Hz sampling rate used in standard medical datasets.
+- Note: Next step is to integrate the `wfdb` library to read actual PhysioNet data.
