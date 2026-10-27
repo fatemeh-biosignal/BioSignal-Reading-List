@@ -43,3 +43,7 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `load_real_data.py` to simulate loading a real MIT-BIH ECG record.
 - The script accounts for the 360 Hz sampling rate used in standard medical datasets.
 - Note: Next step is to integrate the `wfdb` library to read actual PhysioNet data.
+## October 27, 2026
+- Created `wavelet_analysis.py` to apply Discrete Wavelet Transform (DWT) using PyWavelets.
+- Learned how wavelets (like 'db4') make the ECG signal sparse, which is a crucial step before applying Compressive Sensing.
+- Updated `requirements.txt` to include `PyWavelets`.
