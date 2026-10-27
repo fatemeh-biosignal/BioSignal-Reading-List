@@ -24,6 +24,7 @@ Here is a guide to what you can find in this repository:
 - 📄 **[Papers List](papers.md)** — A collection of relevant papers on my radar.
 - 📝 **[Daily Notes](notes.md)** — My daily research thoughts and progress.
 - 🐍 **[Python Basics](python-basics.md)** — My journey learning Python for signal processing.
+- 🗺️ **[Python Roadmap](python_roadmap.md)** — My step-by-step learning journey in Python.
 - 💻 **[ECG Simulation](ecg_simulation.py)** — My first Python script for signal simulation.
 - 📥 **[Load Real Data](load_real_data.py)** — Simulating the loading of real MIT-BIH datasets.
 - 〰️ **[Wavelet Analysis](wavelet_analysis.py)** — Applying Wavelet Transform for signal sparsity.
