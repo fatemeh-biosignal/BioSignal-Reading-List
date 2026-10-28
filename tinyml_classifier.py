@@ -58,3 +58,17 @@ if __name__ == "__main__":
     print(f"Model Accuracy: {accuracy * 100:.2f}%")
     print("\nClassification Report:")
     print(classification_report(y_test, y_pred, target_names=["Normal", "Arrhythmia"]))
+    # --- Visualizing Feature Importance ---
+    print("\nPlotting feature importances...")
+
+    # Get feature importances from the Random Forest model
+    importances = model.feature_importances_
+
+    # Plot the top 20 important features
+    plt.figure(figsize=(10, 4))
+    plt.plot(importances[:20], color='orange', marker='o', linestyle='dashed')
+    plt.title("Feature Importances (Top 20 time points)")
+plt.xlabel("Time Index within the beat")
+plt.ylabel("Importance")
+plt.grid(True)
+plt.show()
