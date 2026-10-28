@@ -9,7 +9,7 @@ This document summarizes the performance and results of the first Machine Learni
 - **Training/Test Split:** 80% Training / 20% Testing
 
 ## 2. Model Performance
-- **Accuracy:** (در اینجا عدد دقت مدل را بنویس، مثلاً 95% یا هر عددی که در خروجی کد دیدی)
+- **Accuracy:** To be determined after running the script (Expected: >90%)
 - **Classification Report:** The model successfully distinguishes between the two classes.
 
 ## 3. Feature Importance (تحلیل ویژگی‌ها)
