@@ -51,3 +51,6 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `tinyml_classifier.py`, my first Machine Learning model for ECG analysis.
 - Used `scikit-learn` (Random Forest) to classify between Normal and Arrhythmia heartbeats.
 - Note: This is the foundational step for implementing TinyML on a low-power microcontroller.
+- Added feature importance visualization to the TinyML classifier.
+- This helps in understanding which parts of the ECG signal the Random Forest model focuses on for arrhythmia detection.
+- Learned how to extract and plot `model.feature_importances_` in scikit-learn.
