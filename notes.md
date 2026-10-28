@@ -47,3 +47,7 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `wavelet_analysis.py` to apply Discrete Wavelet Transform (DWT) using PyWavelets.
 - Learned how wavelets (like 'db4') make the ECG signal sparse, which is a crucial step before applying Compressive Sensing.
 - Updated `requirements.txt` to include `PyWavelets`.
+## October 28, 2026
+- Created `tinyml_classifier.py`, my first Machine Learning model for ECG analysis.
+- Used `scikit-learn` (Random Forest) to classify between Normal and Arrhythmia heartbeats.
+- Note: This is the foundational step for implementing TinyML on a low-power microcontroller.
