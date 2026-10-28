@@ -29,10 +29,11 @@ Here is a guide to what you can find in this repository:
 - 📥 **[Load Real Data](load_real_data.py)** — Simulating the loading of real MIT-BIH datasets.
 - 〰️ **[Wavelet Analysis](wavelet_analysis.py)** — Applying Wavelet Transform for signal sparsity.
 - 🤖 **[TinyML Classifier](tinyml_classifier.py)** — Machine learning model for arrhythmia detection.
+- 📊 **[TinyML Results](tinyml_results.md)** — Performance and analysis of the ML model.
 - 📉 **[Compressed Sensing Demo](compressed_sensing_demo.py)** — Core algorithm for data compression.
 - 🔄 **[Reconstruction Demo](reconstruction_demo.py)** — Recovering signals from compressed samples.
 - 🧠 **[OMP Algorithm](omp_reconstruction.py)** — Advanced signal reconstruction using Orthogonal Matching Pursuit.
-- - 🫀 **[Real ECG Analysis](real_ecg_analysis.py)** — Signal filtering and noise removal.
+- 🫀 **[Real ECG Analysis](real_ecg_analysis.py)** — Signal filtering and noise removal.
 - ⚙️ **[Requirements](requirements.txt)** — Dependencies for running the code.
 ## 🌱 Current Status
 - 🧪 Actively building my foundation in Biomedical Signal Processing and embedded systems.
