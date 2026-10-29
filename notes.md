@@ -54,3 +54,7 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Added feature importance visualization to the TinyML classifier.
 - This helps in understanding which parts of the ECG signal the Random Forest model focuses on for arrhythmia detection.
 - Learned how to extract and plot `model.feature_importances_` in scikit-learn.
+## October 29, 2026
+- Created `main.py`, a central dashboard script that runs the entire pipeline.
+- Integrated the `ECGProcessor` class, signal filtering, and the TinyML Random Forest model into one execution file.
+- This script generates a 4-panel visualization showing raw, filtered, compressed signals, and AI feature importance.
