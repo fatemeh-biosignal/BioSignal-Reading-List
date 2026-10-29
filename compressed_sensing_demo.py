@@ -4,7 +4,7 @@
 
 import numpy as np
 import matplotlib.pyplot as plt
-
+from ecg_processor import ECGProcessor
 def generate_mock_ecg(duration=5, sampling_rate=250):
     t = np.linspace(0, duration, duration * sampling_rate)
     # Simple synthetic signal
@@ -65,3 +65,16 @@ if __name__ == "__main__":
     plt.show()
 
     print("Plot generated. In a real environment, a graph window would open here.")
+    # --- Testing the new Object-Oriented Approach ---
+    print("\n--- Testing ECGProcessor Class ---")
+    processor = ECGProcessor(duration=5, sampling_rate=250)
+
+    # Generate and filter using the class
+    raw_class_signal = processor.generate_signal()
+    filtered_class_signal = processor.apply_moving_average_filter()
+
+    # Compress using the class
+    indices_class, compressed_class = processor.compress_signal(compression_ratio=0.3)
+
+    print(f"Class-based compressed samples: {len(compressed_class)}")
+    print("ECGProcessor class integrated successfully.")
