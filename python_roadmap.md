@@ -26,3 +26,10 @@ This file documents my step-by-step journey learning Python for Biomedical Signa
 
 ## Phase 6: Advanced Analysis (Wavelets)
 - **Discrete Wavelet Transform (`pywt.wavedec`):** Decomposing the signal to make it sparse before compression.
+
+## Phase 7: Machine Learning (TinyML)
+- **Scikit-Learn:**
+  - `train_test_split`: Splitting data into training and testing sets.
+  - `RandomForestClassifier`: Training a lightweight AI model for classification.
+  - `accuracy_score`: Evaluating the model's performance.
+  - `feature_importances_`: Analyzing which parts of the signal the model finds most important.
