@@ -15,6 +15,7 @@ Designing a **low-power wearable ECG monitoring system** using **Compressive Sen
 Here is a guide to what you can find in this repository:
 
 - 💡 **[Project Idea](project-idea.md)** — Overview of my proposed ECG system.
+- 🚀 **[Main Pipeline](main.py)** — The main script to run the entire project from start to finish.
 - 💭 **[Brainstorming](ideas.md)** — Future ideas and features for the wearable ECG.
 - 🖼️ **[Project Visuals](visuals.md)** — Planned plots and visual results.
 - 🧠 **[Key Concepts](concepts.md)** — Theoretical foundations (CS, TinyML, Hardware).
