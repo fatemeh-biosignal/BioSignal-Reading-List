@@ -61,3 +61,5 @@ Short notes and observations from my daily reading on biomedical signal processi
 ## October 30, 2026
 - Created `documentation.md` to provide a technical overview of all project modules.
 - This file will serve as the foundation for the "Methodology" section of the ICEE 2027 paper.
+- Created `architecture.md` to visualize the data flow from the ECG sensor to the TinyML classifier.
+- Used Mermaid syntax in Markdown to generate a professional system architecture diagram.
