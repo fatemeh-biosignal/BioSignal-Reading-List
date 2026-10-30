@@ -52,3 +52,4 @@ If you want to run the Python scripts in this repository:
    `python compressed_sensing_demo.py`
 - 📊 **[Progress Report](results_report.md)** — Summary of my simulations and results so far.
 - 🗺️ **[Project Roadmap](roadmap.md)** — Timeline and milestones for 2026-2027.
+- 📑 **[Documentation](documentation.md)** — Technical overview of all Python modules.
