@@ -58,3 +58,6 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `main.py`, a central dashboard script that runs the entire pipeline.
 - Integrated the `ECGProcessor` class, signal filtering, and the TinyML Random Forest model into one execution file.
 - This script generates a 4-panel visualization showing raw, filtered, compressed signals, and AI feature importance.
+## October 30, 2026
+- Created `documentation.md` to provide a technical overview of all project modules.
+- This file will serve as the foundation for the "Methodology" section of the ICEE 2027 paper.
