@@ -63,3 +63,6 @@ Short notes and observations from my daily reading on biomedical signal processi
 - This file will serve as the foundation for the "Methodology" section of the ICEE 2027 paper.
 - Created `architecture.md` to visualize the data flow from the ECG sensor to the TinyML classifier.
 - Used Mermaid syntax in Markdown to generate a professional system architecture diagram.
+- Created `hardware_specs.md` outlining the required components for the physical prototype.
+- Selected the AD8232 for the Analog Front-End and STM32 for the core processing unit.
+- This bridges the gap between the software simulation and the actual wearable device.
