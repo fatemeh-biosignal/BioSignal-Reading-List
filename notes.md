@@ -66,3 +66,5 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `hardware_specs.md` outlining the required components for the physical prototype.
 - Selected the AD8232 for the Analog Front-End and STM32 for the core processing unit.
 - This bridges the gap between the software simulation and the actual wearable device.
+- Created `executive_summary.md` to provide a high-level overview of the project for reviewers and award committees.
+- This document will be the first thing judges read for the Khwarizmi Award.
