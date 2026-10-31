@@ -24,6 +24,7 @@ Here is a guide to what you can find in this repository:
 - 📖 **[Glossary](glossary.md)** — Key medical and technical terms used in this project.
 - 📚 **[Reading Log](reading-log.md)** — Summaries of papers I have read.
 - 📄 **[Papers List](papers.md)** — A collection of relevant papers on my radar.
+- 🏆 **[AI Competitions](ai_competitions.md)** — Future AI challenges and datasets in healthcare.
 - 📝 **[Daily Notes](notes.md)** — My daily research thoughts and progress.
 - 🐍 **[Python Basics](python-basics.md)** — My journey learning Python for signal processing.
 - 🗺️ **[Python Roadmap](python_roadmap.md)** — My step-by-step learning journey in Python.
