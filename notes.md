@@ -68,3 +68,6 @@ Short notes and observations from my daily reading on biomedical signal processi
 - This bridges the gap between the software simulation and the actual wearable device.
 - Created `executive_summary.md` to provide a high-level overview of the project for reviewers and award committees.
 - This document will be the first thing judges read for the Khwarizmi Award.
+## October 31, 2026
+- Added `ai_competitions.md` to track future AI competitions and medical datasets.
+- This will help me plan my future research and portfolio after the entrance exam.
