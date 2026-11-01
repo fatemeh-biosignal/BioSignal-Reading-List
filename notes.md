@@ -74,3 +74,5 @@ Short notes and observations from my daily reading on biomedical signal processi
 ## November 1, 2026
 - Created `future_roadmap.md` outlining the path from software simulation to hardware prototyping and commercialization.
 - This document is crucial for the Khwarizmi Award, showing the practical and commercial potential of the project.
+- Created `paper_abstract.md` as a draft for the ICEE 2027 paper.
+- The abstract summarizes the entire project (CS, TinyML, OMP) in a professional academic format.
