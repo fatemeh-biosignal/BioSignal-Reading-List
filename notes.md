@@ -71,3 +71,6 @@ Short notes and observations from my daily reading on biomedical signal processi
 ## October 31, 2026
 - Added `ai_competitions.md` to track future AI competitions and medical datasets.
 - This will help me plan my future research and portfolio after the entrance exam.
+## November 1, 2026
+- Created `future_roadmap.md` outlining the path from software simulation to hardware prototyping and commercialization.
+- This document is crucial for the Khwarizmi Award, showing the practical and commercial potential of the project.
