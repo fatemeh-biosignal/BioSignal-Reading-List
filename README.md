@@ -54,6 +54,7 @@ If you want to run the Python scripts in this repository:
    `python compressed_sensing_demo.py`
 - 📊 **[Progress Report](results_report.md)** — Summary of my simulations and results so far.
 - 🗺️ **[Project Roadmap](roadmap.md)** — Timeline and milestones for 2026-2027.
+- 🚀 **[Future Roadmap](future_roadmap.md)** — Path from simulation to a commercial medical device.
 - 📑 **[Documentation](documentation.md)** — Technical overview of all Python modules.
 - 🏗️ **[Architecture](architecture.md)** — System architecture diagram (Mermaid).
 - 🔌 **[Hardware Specs](hardware_specs.md)** — Bill of Materials for the physical prototype.
