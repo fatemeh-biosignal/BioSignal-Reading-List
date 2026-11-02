@@ -81,3 +81,6 @@ Short notes and observations from my daily reading on biomedical signal processi
 - This ensures the device operates efficiently and maximizes battery life.
 - Created `embedded_c_code.c` to demonstrate how the filtering logic can be implemented in C for microcontrollers.
 - This bridges the gap between the Python simulation and the actual hardware implementation.
+- Created `r_peak_detection.py` to identify heartbeats using `scipy.signal.find_peaks`.
+- This allows the system to calculate the Heart Rate (BPM) from the ECG signal.
+- Next step: Integrate this with the TinyML classifier to detect if the heart rate is abnormal.
