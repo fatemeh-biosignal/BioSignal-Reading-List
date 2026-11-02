@@ -38,6 +38,7 @@ Here is a guide to what you can find in this repository:
 - 🔄 **[Reconstruction Demo](reconstruction_demo.py)** — Recovering signals from compressed samples.
 - 🧠 **[OMP Algorithm](omp_reconstruction.py)** — Advanced signal reconstruction using Orthogonal Matching Pursuit.
 - ❤️ **[R-Peak Detection](r_peak_detection.py)** — Heart rate calculation and beat detection.
+- 🚨 **[Heart Rate Alert](heart_rate_alert.py)** — Medical alert logic for Bradycardia and Tachycardia.
 - 🫀 **[Real ECG Analysis](real_ecg_analysis.py)** — Signal filtering and noise removal.
 - ⚙️ **[Requirements](requirements.txt)** — Dependencies for running the code.
 ## 🌱 Current Status
