@@ -88,3 +88,5 @@ Short notes and observations from my daily reading on biomedical signal processi
 - This brings the system closer to a real-world medical device.
 - Created `limitations_future_work.md` to document the current boundaries of the project and plan the next steps.
 - This shows scientific honesty and a clear vision for the future of the research.
+- Created `performance_evaluation.py` to numerically compare OMP and Linear Interpolation.
+- This provides quantitative proof (MSE) that OMP is superior for signal reconstruction.
