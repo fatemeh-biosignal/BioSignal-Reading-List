@@ -59,3 +59,4 @@ If you want to run the Python scripts in this repository:
 - 📑 **[Documentation](documentation.md)** — Technical overview of all Python modules.
 - 🏗️ **[Architecture](architecture.md)** — System architecture diagram (Mermaid).
 - 🔌 **[Hardware Specs](hardware_specs.md)** — Bill of Materials for the physical prototype.
+- ⚙️ **[Control System](control_system.md)** — State machine and power management logic.
