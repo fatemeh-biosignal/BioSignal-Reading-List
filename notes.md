@@ -96,3 +96,5 @@ Short notes and observations from my daily reading on biomedical signal processi
 - This ensures the reliability of the code and follows professional software engineering practices.
 - Created `mobile_app_integration.md` to design the BLE communication between the wearable device and the smartphone app.
 - Emphasized data encryption (AES-128) and patient privacy.
+- Created `paper_draft.md` to outline the full structure of the ICEE 2027 paper.
+- This will serve as the main skeleton for writing the final manuscript.
