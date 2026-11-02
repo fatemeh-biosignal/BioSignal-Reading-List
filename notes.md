@@ -94,3 +94,5 @@ Short notes and observations from my daily reading on biomedical signal processi
 - This is a standard requirement for scientific papers and presentations.
 - Created `test_pipeline.py` to add automated testing for the core algorithms.
 - This ensures the reliability of the code and follows professional software engineering practices.
+- Created `mobile_app_integration.md` to design the BLE communication between the wearable device and the smartphone app.
+- Emphasized data encryption (AES-128) and patient privacy.
