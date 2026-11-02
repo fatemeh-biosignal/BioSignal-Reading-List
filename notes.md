@@ -76,3 +76,6 @@ Short notes and observations from my daily reading on biomedical signal processi
 - This document is crucial for the Khwarizmi Award, showing the practical and commercial potential of the project.
 - Created `paper_abstract.md` as a draft for the ICEE 2027 paper.
 - The abstract summarizes the entire project (CS, TinyML, OMP) in a professional academic format.
+## November 2, 2026
+- Created `control_system.md` to define the state machine and power management strategy for the wearable device.
+- This ensures the device operates efficiently and maximizes battery life.
