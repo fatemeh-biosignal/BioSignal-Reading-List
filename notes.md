@@ -84,3 +84,5 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `r_peak_detection.py` to identify heartbeats using `scipy.signal.find_peaks`.
 - This allows the system to calculate the Heart Rate (BPM) from the ECG signal.
 - Next step: Integrate this with the TinyML classifier to detect if the heart rate is abnormal.
+- Created `heart_rate_alert.py` to define the medical alert logic (Bradycardia < 60 BPM, Tachycardia > 100 BPM).
+- This brings the system closer to a real-world medical device.
