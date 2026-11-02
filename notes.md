@@ -79,3 +79,5 @@ Short notes and observations from my daily reading on biomedical signal processi
 ## November 2, 2026
 - Created `control_system.md` to define the state machine and power management strategy for the wearable device.
 - This ensures the device operates efficiently and maximizes battery life.
+- Created `embedded_c_code.c` to demonstrate how the filtering logic can be implemented in C for microcontrollers.
+- This bridges the gap between the Python simulation and the actual hardware implementation.
