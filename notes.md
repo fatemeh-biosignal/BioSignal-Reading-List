@@ -90,3 +90,5 @@ Short notes and observations from my daily reading on biomedical signal processi
 - This shows scientific honesty and a clear vision for the future of the research.
 - Created `performance_evaluation.py` to numerically compare OMP and Linear Interpolation.
 - This provides quantitative proof (MSE) that OMP is superior for signal reconstruction.
+- Created `graphical_abstract.md` to provide a quick visual overview of the system's data flow.
+- This is a standard requirement for scientific papers and presentations.
