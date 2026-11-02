@@ -37,6 +37,7 @@ Here is a guide to what you can find in this repository:
 - 📉 **[Compressed Sensing Demo](compressed_sensing_demo.py)** — Core algorithm for data compression.
 - 🔄 **[Reconstruction Demo](reconstruction_demo.py)** — Recovering signals from compressed samples.
 - 🧠 **[OMP Algorithm](omp_reconstruction.py)** — Advanced signal reconstruction using Orthogonal Matching Pursuit.
+- 📊 **[Performance Evaluation](performance_evaluation.py)** — Comparing OMP vs. Linear Interpolation.
 - ❤️ **[R-Peak Detection](r_peak_detection.py)** — Heart rate calculation and beat detection.
 - 🚨 **[Heart Rate Alert](heart_rate_alert.py)** — Medical alert logic for Bradycardia and Tachycardia.
 - 🫀 **[Real ECG Analysis](real_ecg_analysis.py)** — Signal filtering and noise removal.
