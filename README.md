@@ -18,6 +18,7 @@ Here is a guide to what you can find in this repository:
 - 📝 **[Executive Summary](executive_summary.md)** — A one-page overview of the project's problem, solution, and goals.
 - 🖼️ **[Graphical Abstract](graphical_abstract.md)** — Visual summary of the project workflow.
 - 📝 **[Paper Abstract](paper_abstract.md)** — Draft abstract for the ICEE 2027 conference.
+- 📄 **[Paper Draft](paper_draft.md)** — Full structure for the ICEE 2027 paper.
 - 🚀 **[Main Pipeline](main.py)** — The main script to run the entire project from start to finish.
 - 💭 **[Brainstorming](ideas.md)** — Future ideas and features for the wearable ECG.
 - 🖼️ **[Project Visuals](visuals.md)** — Planned plots and visual results.
