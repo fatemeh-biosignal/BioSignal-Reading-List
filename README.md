@@ -65,5 +65,6 @@ If you want to run the Python scripts in this repository:
 - 🏗️ **[Architecture](architecture.md)** — System architecture diagram (Mermaid).
 - 🔌 **[Hardware Specs](hardware_specs.md)** — Bill of Materials for the physical prototype.
 - ⚙️ **[Control System](control_system.md)** — State machine and power management logic.
+- 📱 **[Mobile App Integration](mobile_app_integration.md)** — BLE communication protocol and app features.
 - 💻 **[Embedded C Code](embedded_c_code.c)** — C implementation for microcontrollers (STM32/AVR).
 - 🧪 **[Automated Tests](test_pipeline.py)** — Unit tests for ECGProcessor and OMP.
