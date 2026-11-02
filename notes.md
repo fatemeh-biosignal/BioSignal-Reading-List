@@ -92,3 +92,5 @@ Short notes and observations from my daily reading on biomedical signal processi
 - This provides quantitative proof (MSE) that OMP is superior for signal reconstruction.
 - Created `graphical_abstract.md` to provide a quick visual overview of the system's data flow.
 - This is a standard requirement for scientific papers and presentations.
+- Created `test_pipeline.py` to add automated testing for the core algorithms.
+- This ensures the reliability of the code and follows professional software engineering practices.
