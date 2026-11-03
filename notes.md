@@ -103,3 +103,5 @@ Short notes and observations from my daily reading on biomedical signal processi
 - This document will help in the commercialization phase and the Khwarizmi Award presentation.
 - Created `gui_dashboard.py` using Tkinter to provide a visual interface for the project.
 - This dashboard will be used to demo the system to judges and investors.
+- Created `clinical_safety.md` to document the required medical standards for the device.
+- This ensures the project is aligned with international safety and privacy regulations.
