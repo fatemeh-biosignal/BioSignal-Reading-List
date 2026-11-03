@@ -108,3 +108,5 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `conclusion.md` to summarize the project's key achievements and impact.
 - This completes the core documentation required for the ICEE 2027 paper.
 - Created `faq.md` to answer common questions from judges, investors, and researchers.
+- Created `pitch_summary.md` as a quick overview for investors and Khwarizmi judges.
+- This wraps up all the necessary documentation for the project.
