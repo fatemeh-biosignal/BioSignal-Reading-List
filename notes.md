@@ -98,3 +98,6 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Emphasized data encryption (AES-128) and patient privacy.
 - Created `paper_draft.md` to outline the full structure of the ICEE 2027 paper.
 - This will serve as the main skeleton for writing the final manuscript.
+## November 3, 2026
+- Created `market_analysis.md` to define the target audience and value proposition of the device.
+- This document will help in the commercialization phase and the Khwarizmi Award presentation.
