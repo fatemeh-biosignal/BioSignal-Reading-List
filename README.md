@@ -21,6 +21,7 @@ Here is a guide to what you can find in this repository:
 - 📄 **[Paper Draft](paper_draft.md)** — Full structure for the ICEE 2027 paper.
 - 🏁 **[Conclusion](conclusion.md)** — Summary of key achievements and project impact.
 - ❓ **[FAQ](faq.md)** — Frequently asked questions about the project.
+- 🚀 **[Pitch Summary](pitch_summary.md)** — A quick overview for investors and judges.
 - 🚀 **[Main Pipeline](main.py)** — The main script to run the entire project from start to finish.
 - 🖥️ **[GUI Dashboard](gui_dashboard.py)** — Graphical user interface for demo presentations.
 - 💭 **[Brainstorming](ideas.md)** — Future ideas and features for the wearable ECG.
