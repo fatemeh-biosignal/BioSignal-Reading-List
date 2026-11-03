@@ -101,3 +101,5 @@ Short notes and observations from my daily reading on biomedical signal processi
 ## November 3, 2026
 - Created `market_analysis.md` to define the target audience and value proposition of the device.
 - This document will help in the commercialization phase and the Khwarizmi Award presentation.
+- Created `gui_dashboard.py` using Tkinter to provide a visual interface for the project.
+- This dashboard will be used to demo the system to judges and investors.
