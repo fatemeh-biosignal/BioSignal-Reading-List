@@ -20,6 +20,7 @@ Here is a guide to what you can find in this repository:
 - 📝 **[Paper Abstract](paper_abstract.md)** — Draft abstract for the ICEE 2027 conference.
 - 📄 **[Paper Draft](paper_draft.md)** — Full structure for the ICEE 2027 paper.
 - 🚀 **[Main Pipeline](main.py)** — The main script to run the entire project from start to finish.
+- 🖥️ **[GUI Dashboard](gui_dashboard.py)** — Graphical user interface for demo presentations.
 - 💭 **[Brainstorming](ideas.md)** — Future ideas and features for the wearable ECG.
 - 🖼️ **[Project Visuals](visuals.md)** — Planned plots and visual results.
 - 🧠 **[Key Concepts](concepts.md)** — Theoretical foundations (CS, TinyML, Hardware).
