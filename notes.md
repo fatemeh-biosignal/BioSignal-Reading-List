@@ -114,3 +114,5 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `problem_statement.md` with global statistics (WHO) to highlight the importance of the project.
 - This document clearly defines the problem and our proposed low-power solution.
 - Created `business_model.md` to outline the commercial viability of the device.
+- Created `clinical_roadmap.md` to outline the validation steps.
+- Created `advanced_filtering.py` using Butterworth bandpass filter for noise reduction.
