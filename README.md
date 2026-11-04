@@ -49,6 +49,7 @@ Here is a guide to what you can find in this repository:
 - 🚨 **[Heart Rate Alert](heart_rate_alert.py)** — Medical alert logic for Bradycardia and Tachycardia.
 - 🫀 **[Real ECG Analysis](real_ecg_analysis.py)** — Signal filtering and noise removal.
 - ⚙️ **[Requirements](requirements.txt)** — Dependencies for running the code.
+- 💼 **[Business Model](business_model.md)** — Value proposition and revenue streams.
 ## 🌱 Current Status
 - 🧪 Actively building my foundation in Biomedical Signal Processing and embedded systems.
 - 📅 Preparing a research proposal for the Khwarizmi International Award (submission in Fall 2027).
