@@ -48,6 +48,7 @@ Here is a guide to what you can find in this repository:
 - ❤️ **[R-Peak Detection](r_peak_detection.py)** — Heart rate calculation and beat detection.
 - 🚨 **[Heart Rate Alert](heart_rate_alert.py)** — Medical alert logic for Bradycardia and Tachycardia.
 - 🫀 **[Real ECG Analysis](real_ecg_analysis.py)** — Signal filtering and noise removal.
+- 🌊 **[Advanced Filtering](advanced_filtering.py)** — Butterworth bandpass filter for noise reduction.
 - ⚙️ **[Requirements](requirements.txt)** — Dependencies for running the code.
 - 💼 **[Business Model](business_model.md)** — Value proposition and revenue streams.
 - 🩺 **[Clinical Roadmap](clinical_roadmap.md)** — Steps for clinical validation and trials.
