@@ -110,3 +110,6 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `faq.md` to answer common questions from judges, investors, and researchers.
 - Created `pitch_summary.md` as a quick overview for investors and Khwarizmi judges.
 - This wraps up all the necessary documentation for the project.
+## November 4, 2026
+- Created `problem_statement.md` with global statistics (WHO) to highlight the importance of the project.
+- This document clearly defines the problem and our proposed low-power solution.
