@@ -113,3 +113,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 ## November 4, 2026
 - Created `problem_statement.md` with global statistics (WHO) to highlight the importance of the project.
 - This document clearly defines the problem and our proposed low-power solution.
+- Created `business_model.md` to outline the commercial viability of the device.
