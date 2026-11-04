@@ -116,3 +116,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `business_model.md` to outline the commercial viability of the device.
 - Created `clinical_roadmap.md` to outline the validation steps.
 - Created `advanced_filtering.py` using Butterworth bandpass filter for noise reduction.
+- Created `advanced_filtering.py` to implement a Butterworth bandpass filter for real-world ECG noise.
