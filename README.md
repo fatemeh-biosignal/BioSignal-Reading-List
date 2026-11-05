@@ -54,6 +54,7 @@ Here is a guide to what you can find in this repository:
 - 🩺 **[Clinical Roadmap](clinical_roadmap.md)** — Steps for clinical validation and trials.
 - 🤝 **[Contributing](CONTRIBUTING.md)** — Guidelines for open-source contributions.
 - 📈 **[Results Summary](results_summary.md)** — Numerical results and performance metrics.
+- 🔭 **[Vision](vision.md)** — Long-term roadmap (2027-2035).
 ## 🌱 Current Status
 - 🧪 Actively building my foundation in Biomedical Signal Processing and embedded systems.
 - 📅 Preparing a research proposal for the Khwarizmi International Award (submission in Fall 2027).
