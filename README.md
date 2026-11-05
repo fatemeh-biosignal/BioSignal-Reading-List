@@ -52,6 +52,7 @@ Here is a guide to what you can find in this repository:
 - ⚙️ **[Requirements](requirements.txt)** — Dependencies for running the code.
 - 💼 **[Business Model](business_model.md)** — Value proposition and revenue streams.
 - 🩺 **[Clinical Roadmap](clinical_roadmap.md)** — Steps for clinical validation and trials.
+- 🤝 **[Contributing](CONTRIBUTING.md)** — Guidelines for open-source contributions.
 ## 🌱 Current Status
 - 🧪 Actively building my foundation in Biomedical Signal Processing and embedded systems.
 - 📅 Preparing a research proposal for the Khwarizmi International Award (submission in Fall 2027).
