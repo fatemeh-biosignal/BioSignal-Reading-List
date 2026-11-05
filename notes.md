@@ -120,3 +120,5 @@ Short notes and observations from my daily reading on biomedical signal processi
 ## November 5, 2026
 - Created `CONTRIBUTING.md` to establish open-source guidelines for future collaborators.
 - This aligns the project with international software engineering standards.
+- Created `results_summary.md` to document the quantitative results (CS, MSE, TinyML).
+- This file will form the "Results" section of the ICEE paper.
