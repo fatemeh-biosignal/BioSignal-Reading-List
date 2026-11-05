@@ -117,3 +117,6 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `clinical_roadmap.md` to outline the validation steps.
 - Created `advanced_filtering.py` using Butterworth bandpass filter for noise reduction.
 - Created `advanced_filtering.py` to implement a Butterworth bandpass filter for real-world ECG noise.
+## November 5, 2026
+- Created `CONTRIBUTING.md` to establish open-source guidelines for future collaborators.
+- This aligns the project with international software engineering standards.
