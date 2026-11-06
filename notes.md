@@ -129,3 +129,5 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `literature_review.md` to summarize related works (including Safarpour, Charmi, et al.) and define the research gap.
 - Created `srs.md` to define functional and non-functional requirements (battery life, latency, privacy).
 - Created `test_plan.md` to define testing strategies from unit tests to clinical validation.
+## November 7, 2026
+- Created `user_manual.md` to provide clear instructions and troubleshooting for end-users.
