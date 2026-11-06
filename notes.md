@@ -123,3 +123,5 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `results_summary.md` to document the quantitative results (CS, MSE, TinyML).
 - This file will form the "Results" section of the ICEE paper.
 - Created `vision.md` to outline the long-term goals of the project.
+## November 6, 2026
+- Created `CITATION.cff` to allow other researchers to properly cite this project in their academic work.
