@@ -58,6 +58,7 @@ Here is a guide to what you can find in this repository:
 - 📝 **[Citation](CITATION.cff)** — Academic citation format for the project.
 - 📜 **[Changelog](CHANGELOG.md)** — Version history and future updates.
 - 📚 **[Literature Review](literature_review.md)** — Summary of related works and research gap.
+- 📋 **[SRS](srs.md)** — Software Requirements Specification.
 ## 🌱 Current Status
 - 🧪 Actively building my foundation in Biomedical Signal Processing and embedded systems.
 - 📅 Preparing a research proposal for the Khwarizmi International Award (submission in Fall 2027).
