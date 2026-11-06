@@ -126,3 +126,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 ## November 6, 2026
 - Created `CITATION.cff` to allow other researchers to properly cite this project in their academic work.
 - Created `CHANGELOG.md` to track project versions and document planned hardware updates.
+- Created `literature_review.md` to summarize related works (including Safarpour, Charmi, et al.) and define the research gap.
