@@ -60,6 +60,7 @@ Here is a guide to what you can find in this repository:
 - 📚 **[Literature Review](literature_review.md)** — Summary of related works and research gap.
 - 📋 **[SRS](srs.md)** — Software Requirements Specification.
 - 🧪 **[Test Plan](test_plan.md)** — Strategy for unit, integration, hardware, and clinical testing.
+- 📖 **[User Manual](user_manual.md)** — Instructions for patients and healthcare providers.
 ## 🌱 Current Status
 - 🧪 Actively building my foundation in Biomedical Signal Processing and embedded systems.
 - 📅 Preparing a research proposal for the Khwarizmi International Award (submission in Fall 2027).
