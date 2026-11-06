@@ -125,3 +125,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `vision.md` to outline the long-term goals of the project.
 ## November 6, 2026
 - Created `CITATION.cff` to allow other researchers to properly cite this project in their academic work.
+- Created `CHANGELOG.md` to track project versions and document planned hardware updates.
