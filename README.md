@@ -55,6 +55,7 @@ Here is a guide to what you can find in this repository:
 - 🤝 **[Contributing](CONTRIBUTING.md)** — Guidelines for open-source contributions.
 - 📈 **[Results Summary](results_summary.md)** — Numerical results and performance metrics.
 - 🔭 **[Vision](vision.md)** — Long-term roadmap (2027-2035).
+- 📝 **[Citation](CITATION.cff)** — Academic citation format for the project.
 ## 🌱 Current Status
 - 🧪 Actively building my foundation in Biomedical Signal Processing and embedded systems.
 - 📅 Preparing a research proposal for the Khwarizmi International Award (submission in Fall 2027).
