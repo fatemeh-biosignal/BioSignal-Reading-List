@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this project in your research, please cite it as below."
+authors:
+  - family-names: "Karimi"
+    given-names: "Fatemeh"
+    orcid: "https://orcid.org/0000-0000-0000-0000" # We will update this later
+title: "BioSignal: Low-Power Wearable ECG Monitoring using Compressive Sensing and TinyML"
+version: 1.0.0
+date-released: "2026-11-06"
+url: "https://github.com/fatemeh-biosignal/BioSignal-Reading-List"
