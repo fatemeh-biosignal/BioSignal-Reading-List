@@ -62,6 +62,7 @@ Here is a guide to what you can find in this repository:
 - 📅 **[Project Timeline](project_timeline.md)** — Gantt chart for development phases.
 - 🧪 **[Test Plan](test_plan.md)** — Strategy for unit, integration, hardware, and clinical testing.
 - 📖 **[User Manual](user_manual.md)** — Instructions for patients and healthcare providers.
+- 🔌 **[Hardware Wiring](hardware_wiring.md)** — Block diagram of hardware connections.
 ## 🌱 Current Status
 - 🧪 Actively building my foundation in Biomedical Signal Processing and embedded systems.
 - 📅 Preparing a research proposal for the Khwarizmi International Award (submission in Fall 2027).
