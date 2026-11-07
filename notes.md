@@ -1,7 +1,6 @@
 # Research Notes
 
 Short notes and observations from my daily reading on biomedical signal processing.
-
 ---
 
 ## October 15, 2026
@@ -135,3 +134,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `hardware_wiring.md` to visualize the connections between the ECG sensor, MCU, and BLE module.
 - Created `hardware_pinout.md` to define the electrical connections for the prototype.
 - Created `pcb_design_plan.md` based on my past experience with Altium Designer.
+- Created `bom_estimate.md` to estimate the manufacturing cost for the MVP prototype.
