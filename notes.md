@@ -131,3 +131,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `test_plan.md` to define testing strategies from unit tests to clinical validation.
 ## November 7, 2026
 - Created `user_manual.md` to provide clear instructions and troubleshooting for end-users.
+- Created `project_timeline.md` using Mermaid to visualize the project schedule.
