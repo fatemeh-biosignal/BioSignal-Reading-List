@@ -64,6 +64,7 @@ Here is a guide to what you can find in this repository:
 - 📖 **[User Manual](user_manual.md)** — Instructions for patients and healthcare providers.
 - 🔌 **[Hardware Wiring](hardware_wiring.md)** — Block diagram of hardware connections.
 - 📌 **[Hardware Pinout](hardware_pinout.md)** — Pin mapping between STM32, AD8232, and BLE.
+- 🛠️ **[PCB Design Plan](pcb_design_plan.md)** — Roadmap for Altium Designer and hardware layout.
 ## 🌱 Current Status
 - 🧪 Actively building my foundation in Biomedical Signal Processing and embedded systems.
 - 📅 Preparing a research proposal for the Khwarizmi International Award (submission in Fall 2027).
