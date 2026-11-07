@@ -4,23 +4,16 @@ Short notes and observations from my daily reading on biomedical signal processi
 ---
 
 ## October 15, 2026
-
 - Started my GitHub research journal today.
 - Focus areas: Compressive Sensing, ECG, TinyML, SAR ADC.
 - Next: reading about FISTA vs OMP for on-device ECG reconstruction.
-
----
 ## October 16, 2026
-
 - Reviewed README structure and added "Files in this repo" section.
 - Next: reading about Compressive Sensing matrices for ECG.
-
----
 ## October 20, 2026
 - Successfully added plotting code to `compressed_sensing_demo.py`.
 - Learned how to use `plt.subplot` to show two graphs side-by-side.
 - The red dots will represent the 30% of samples we kept, while the blue line is the original.
-
 ## October 22, 2026
 - Created `reconstruction_demo.py` to demonstrate how to recover a signal from compressed samples.
 - Learned how `np.interp` works in Python (Linear interpolation for missing points).
@@ -135,3 +128,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `hardware_pinout.md` to define the electrical connections for the prototype.
 - Created `pcb_design_plan.md` based on my past experience with Altium Designer.
 - Created `bom_estimate.md` to estimate the manufacturing cost for the MVP prototype.
+- Created `medical_data_standard.md` to ensure compliance with HL7 FHIR standards for hospital integration.
