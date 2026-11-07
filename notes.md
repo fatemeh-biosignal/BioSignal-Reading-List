@@ -132,3 +132,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 ## November 7, 2026
 - Created `user_manual.md` to provide clear instructions and troubleshooting for end-users.
 - Created `project_timeline.md` using Mermaid to visualize the project schedule.
+- Created `hardware_wiring.md` to visualize the connections between the ECG sensor, MCU, and BLE module.
