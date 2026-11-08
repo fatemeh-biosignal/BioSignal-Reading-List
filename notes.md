@@ -132,3 +132,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 ## November 8, 2026
 - Created `SECURITY.md` to define the data encryption (AES-128) and privacy policies.
 - Created `model_card.md` to document the machine learning model's architecture and limitations.
+- Created `data_management_plan.md` to define data storage and patient privacy policies.
