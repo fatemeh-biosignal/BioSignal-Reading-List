@@ -129,3 +129,5 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `pcb_design_plan.md` based on my past experience with Altium Designer.
 - Created `bom_estimate.md` to estimate the manufacturing cost for the MVP prototype.
 - Created `medical_data_standard.md` to ensure compliance with HL7 FHIR standards for hospital integration.
+## November 8, 2026
+- Created `SECURITY.md` to define the data encryption (AES-128) and privacy policies.
