@@ -70,6 +70,7 @@ Here is a guide to what you can find in this repository:
 - 🔒 **[Security Policy](SECURITY.md)** — Data encryption and privacy guidelines.
 - 🤖 **[Model Card](model_card.md)** — Details and limitations of the ML model.
 - 🗄️ **[Data Management Plan](data_management_plan.md)** — Data privacy and storage guidelines.
+- 🤝 **[Code of Conduct](CODE_OF_CONDUCT.md)** — Community guidelines and ethical standards.
 ## 🌱 Current Status
 - 🧪 Actively building my foundation in Biomedical Signal Processing and embedded systems.
 - 📅 Preparing a research proposal for the Khwarizmi International Award (submission in Fall 2027).
