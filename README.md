@@ -69,6 +69,7 @@ Here is a guide to what you can find in this repository:
 - 🏥 **[Medical Data Standard](medical_data_standard.md)** — HL7 FHIR integration for hospital systems.
 - 🔒 **[Security Policy](SECURITY.md)** — Data encryption and privacy guidelines.
 - 🤖 **[Model Card](model_card.md)** — Details and limitations of the ML model.
+- 🗄️ **[Data Management Plan](data_management_plan.md)** — Data privacy and storage guidelines.
 ## 🌱 Current Status
 - 🧪 Actively building my foundation in Biomedical Signal Processing and embedded systems.
 - 📅 Preparing a research proposal for the Khwarizmi International Award (submission in Fall 2027).
