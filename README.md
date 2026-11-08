@@ -67,6 +67,7 @@ Here is a guide to what you can find in this repository:
 - 🛠️ **[PCB Design Plan](pcb_design_plan.md)** — Roadmap for Altium Designer and hardware layout.
 - 💰 **[BOM Estimate](bom_estimate.md)** — Bill of Materials and cost estimation for the prototype.
 - 🏥 **[Medical Data Standard](medical_data_standard.md)** — HL7 FHIR integration for hospital systems.
+- 🔒 **[Security Policy](SECURITY.md)** — Data encryption and privacy guidelines.
 ## 🌱 Current Status
 - 🧪 Actively building my foundation in Biomedical Signal Processing and embedded systems.
 - 📅 Preparing a research proposal for the Khwarizmi International Award (submission in Fall 2027).
