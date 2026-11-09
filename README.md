@@ -74,6 +74,7 @@ Here is a guide to what you can find in this repository:
 - 🤝 **[Code of Conduct](CODE_OF_CONDUCT.md)** — Community guidelines and ethical standards.
 - 🏗️ **[Software Design](software_design.md)** — Architecture and design of the Python modules.
 - ⚙️ **[Setup Guide](setup_guide.md)** — Instructions for setting up the environment.
+- 📊 **[Data Availability](data_availability.md)** — Statement on code and clinical data access.
 ## 🌱 Current Status
 - 🧪 Actively building my foundation in Biomedical Signal Processing and embedded systems.
 - 📅 Preparing a research proposal for the Khwarizmi International Award (submission in Fall 2027).
