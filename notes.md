@@ -136,3 +136,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `CODE_OF_CONDUCT.md` to establish community and ethical guidelines.
 ## November 9, 2026
 - Created `software_design.md` to document the OOP architecture and data flow of the Python modules.
+- Created `setup_guide.md` to ensure the project is reproducible for other developers.
