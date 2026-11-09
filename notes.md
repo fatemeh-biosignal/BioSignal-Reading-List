@@ -138,3 +138,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `software_design.md` to document the OOP architecture and data flow of the Python modules.
 - Created `setup_guide.md` to ensure the project is reproducible for other developers.
 - Created `README.fa.md` (Persian version) and linked it to the main README for bilingual accessibility.
+- Created `data_availability.md` to comply with IEEE/Nature publishing standards.
