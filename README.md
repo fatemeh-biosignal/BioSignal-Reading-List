@@ -72,6 +72,7 @@ Here is a guide to what you can find in this repository:
 - 🗄️ **[Data Management Plan](data_management_plan.md)** — Data privacy and storage guidelines.
 - 🤝 **[Code of Conduct](CODE_OF_CONDUCT.md)** — Community guidelines and ethical standards.
 - 🏗️ **[Software Design](software_design.md)** — Architecture and design of the Python modules.
+- ⚙️ **[Setup Guide](setup_guide.md)** — Instructions for setting up the environment.
 ## 🌱 Current Status
 - 🧪 Actively building my foundation in Biomedical Signal Processing and embedded systems.
 - 📅 Preparing a research proposal for the Khwarizmi International Award (submission in Fall 2027).
