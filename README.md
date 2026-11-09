@@ -1,3 +1,4 @@
+**🌐 [English](README.md) | [فارسی](README.fa.md)**
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![Focus](https://img.shields.io/badge/Focus-Biomedical_Signal_Processing-red)
 ![Goal](https://img.shields.io/badge/Goal-Khwarizmi_Award_2027-green)
