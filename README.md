@@ -61,6 +61,7 @@ Here is a guide to what you can find in this repository:
 - 📚 **[Literature Review](literature_review.md)** — Summary of related works and research gap.
 - 📋 **[SRS](srs.md)** — Software Requirements Specification.
 - 📅 **[Project Timeline](project_timeline.md)** — Gantt chart for development phases.
+- 📊 **[Business Model Canvas](business_model_canvas.md)** — Visual summary of the business model.
 - 🧪 **[Test Plan](test_plan.md)** — Strategy for unit, integration, hardware, and clinical testing.
 - 📖 **[User Manual](user_manual.md)** — Instructions for patients and healthcare providers.
 - 🔌 **[Hardware Wiring](hardware_wiring.md)** — Block diagram of hardware connections.
