@@ -1,17 +1,21 @@
 # Glossary of Terms (واژه‌نامه تخصصی)
 
-This file contains the key technical and medical terms used in my research project.
+This document provides definitions for the key technical and medical terms used in the BioSignal project.
 
 ## Medical Terms (اصطلاحات پزشکی)
-- **ECG (Electrocardiogram):** A test that records the electrical activity of the heart. (نوار قلب)
-- **Arrhythmia:** A condition where the heart beats with an irregular rhythm. (آریتمی یا بی‌نظمی ضربان قلب)
-- **AFib (Atrial Fibrillation):** The most common type of serious arrhythmia, causing an irregular and often very fast heart rate. (فیبریلاسیون دهلیزی)
-- **Biosignal:** A signal produced by a living organism (e.g., ECG, EEG). (سیگنال زیستی)
+- **ECG (Electrocardiogram):** A recording of the electrical activity of the heart. (نوار قلب)
+- **Arrhythmia:** An irregular heartbeat. (آریتمی/بی‌نظمی ضربان قلب)
+- **Bradycardia:** A heart rate below 60 BPM. (کندی ضربان قلب)
+- **Tachycardia:** A heart rate above 100 BPM. (تندی ضربان قلب)
+- **AFib (Atrial Fibrillation):** The most common serious arrhythmia, causing an irregular and fast heart rate. (فیبریلاسیون دهلیزی)
+- **Biocompatibility:** The ability of a material to perform with an appropriate host response in a specific application. (سازگاری زیستی)
 
-## Technical Terms (اصطلاحات فنی)
-- **Compressive Sensing (CS):** A technique to sample signals at a lower rate than the Nyquist rate, saving power and storage. (سنسینگ فشرده)
-- **TinyML:** A field of machine learning that focuses on running models on low-power microcontrollers. (یادگیری ماشین سبک)
-- **ADC (Analog-to-Digital Converter):** A device that converts analog signals (like ECG) into digital data. (مبدل آنالوگ به دیجیتال)
-- **SAR ADC:** A type of low-power ADC suitable for biomedical applications. (مبدل آنالوگ به دیجیتال با ثبت تقریبی)
-- **AFE (Analog Front-End):** The circuitry that prepares an analog signal for digital processing. (مدار واسط آنالوگ)
+## Technical & Engineering Terms (اصطلاحات فنی و مهندسی)
+- **Compressive Sensing (CS):** A technique for sampling signals at a lower rate than the Nyquist rate, assuming the signal is sparse. (سنسینگ فشرده)
 - **OMP (Orthogonal Matching Pursuit):** An algorithm used to reconstruct signals from compressed measurements. (الگوریتم تعقیب متعامد)
+- **TinyML:** Machine learning models running on low-power microcontrollers. (یادگیری ماشین سبک)
+- **ADC (Analog-to-Digital Converter):** Converts analog signals to digital data. (مبدل آنالوگ به دیجیتال)
+- **AFE (Analog Front-End):** The circuitry that prepares an analog signal for digital processing (e.g., AD8232). (مدار واسط آنالوگ)
+- **BLE (Bluetooth Low Energy):** A wireless technology for short-range communication with low power consumption. (بلوتوث کم‌مصرف)
+- **FMEA (Failure Mode and Effects Analysis):** A systematic method for evaluating a process to identify where and how it might fail. (تحلیل حالات خرابی و اثرات آن)
+- **SRS (Software Requirements Specification):** A document that describes what the software will do and how it will be expected to perform. (مشخصات نیازمندی‌های نرم‌افزار)
