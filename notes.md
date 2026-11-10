@@ -139,3 +139,5 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `setup_guide.md` to ensure the project is reproducible for other developers.
 - Created `README.fa.md` (Persian version) and linked it to the main README for bilingual accessibility.
 - Created `data_availability.md` to comply with IEEE/Nature publishing standards.
+## November 10, 2026
+- Created `risk_analysis.md` to document FMEA and patient safety strategies.
