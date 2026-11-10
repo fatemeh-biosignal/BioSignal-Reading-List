@@ -142,3 +142,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 ## November 10, 2026
 - Created `risk_analysis.md` to document FMEA and patient safety strategies.
 - Updated `glossary.md` with comprehensive technical and medical terms for better project documentation.
+- Created `business_model_canvas.md` using Mermaid to visualize the startup model.
