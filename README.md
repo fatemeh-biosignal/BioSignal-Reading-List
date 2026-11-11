@@ -87,6 +87,7 @@ Here is a guide to what you can find in this repository:
 - ⚠️ **[Risk Analysis](risk_analysis.md)** — FMEA and safety mitigation strategies.
 - 🧪 **[Methodology](methodology.md)** — Step-by-step data pipeline from sensor to AI.
 - 📚 **[References](references.md)** — IEEE formatted bibliography.
+- 🎤 **[Presentation Outline](presentation_outline.md)** — Slide-by-slide pitch for Khwarizmi.
 ## 🌱 Current Status
 - 🧪 Actively building my foundation in Biomedical Signal Processing and embedded systems.
 - 📅 Preparing a research proposal for the Khwarizmi International Award (submission in Fall 2027).
