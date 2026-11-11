@@ -145,3 +145,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `business_model_canvas.md` using Mermaid to visualize the startup model.
 ## November 11, 2026
 - Created `methodology.md` to document the complete data processing pipeline for the ICEE paper.
+- Created `references.md` with IEEE formatted citations for the ICEE paper.
