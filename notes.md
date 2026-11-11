@@ -147,3 +147,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `methodology.md` to document the complete data processing pipeline for the ICEE paper.
 - Created `references.md` with IEEE formatted citations for the ICEE paper.
 - Created `presentation_outline.md` to structure the final project pitch.
+- Created `patient_journey.md` to visualize the user experience for patients and doctors.
