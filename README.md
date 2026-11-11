@@ -89,6 +89,7 @@ Here is a guide to what you can find in this repository:
 - 📚 **[References](references.md)** — IEEE formatted bibliography.
 - 🎤 **[Presentation Outline](presentation_outline.md)** — Slide-by-slide pitch for Khwarizmi.
 ## 🌱 Current Status
+- 🧑‍⚕️ **[Patient Journey](patient_journey.md)** — UX map of the patient and doctor experience.
 - 🧪 Actively building my foundation in Biomedical Signal Processing and embedded systems.
 - 📅 Preparing a research proposal for the Khwarizmi International Award (submission in Fall 2027).
 - 🎤 Preparing a paper for the 33rd Iranian Conference on Electrical Engineering (ICEE 2027) in May 2027.
