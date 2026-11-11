@@ -78,6 +78,7 @@ Here is a guide to what you can find in this repository:
 - 📊 **[Data Availability](data_availability.md)** — Statement on code and clinical data access.
 - ⚠️ **[Risk Analysis](risk_analysis.md)** — FMEA and safety mitigation strategies.
 - 🧪 **[Methodology](methodology.md)** — Step-by-step data pipeline from sensor to AI.
+- 📚 **[References](references.md)** — IEEE formatted bibliography.
 ## 🌱 Current Status
 - 🧪 Actively building my foundation in Biomedical Signal Processing and embedded systems.
 - 📅 Preparing a research proposal for the Khwarizmi International Award (submission in Fall 2027).
