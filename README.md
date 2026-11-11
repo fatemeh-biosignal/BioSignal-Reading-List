@@ -88,8 +88,8 @@ Here is a guide to what you can find in this repository:
 - 🧪 **[Methodology](methodology.md)** — Step-by-step data pipeline from sensor to AI.
 - 📚 **[References](references.md)** — IEEE formatted bibliography.
 - 🎤 **[Presentation Outline](presentation_outline.md)** — Slide-by-slide pitch for Khwarizmi.
+- 🧑‍⚕️ **[Patient Journey](patient_journey.md[)** — UX map of the patient and doctor experience.
 ## 🌱 Current Status
-- 🧑‍⚕️ **[Patient Journey](patient_journey.md)** — UX map of the patient and doctor experience.
 - 🧪 Actively building my foundation in Biomedical Signal Processing and embedded systems.
 - 📅 Preparing a research proposal for the Khwarizmi International Award (submission in Fall 2027).
 - 🎤 Preparing a paper for the 33rd Iranian Conference on Electrical Engineering (ICEE 2027) in May 2027.
@@ -104,7 +104,7 @@ If you want to run the Python scripts in this repository:
 4. Run the Compressive Sensing demo:
    `python compressed_sensing_demo.py`
 - 📊 **[Progress Report](results_report.md)** — Summary of my simulations and results so far.
-- 🗺️ **[Project Roadmap](roadmap.md)** — Timeline and milestones for 2026-2027.
+- 🗺️ **[Proje](https://github.com/fatemeh-biosignal/BioSignal-Reading-List/edit/main/README.md)ct Roadmap](roadmap.md)** — Timeline and milestones for 2026-2027.
 - 🚀 **[Future Roadmap](future_roadmap.md)** — Path from simulation to a commercial medical device.
 - 📊 **[Market Analysis](market_analysis.md)** — Target market and value proposition.
 - 🏥 **[Clinical & Safety](clinical_safety.md)** — Medical standards (IEC 60601, ISO 10993).
