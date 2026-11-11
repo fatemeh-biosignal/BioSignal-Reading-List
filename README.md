@@ -11,6 +11,14 @@ Welcome to my research repository! I am an Electrical Engineer exploring the int
 
 ## 🎯 My Project Focus
 Designing a **low-power wearable ECG monitoring system** using **Compressive Sensing (CS)** and **TinyML** for on-device arrhythmia detection.
+## 📑 Table of Contents
+- [Project Focus](#-my-project-focus)
+- [Repository Structure](#-repository-structure)
+- [Current Status](#-current-status)
+- [How to Run the Code](#-how-to-run-the-code)
+- [License & Citation](#-license--citation)
+
+---
 ## 📂 Repository Structure
 
 Here is a guide to what you can find in this repository:
