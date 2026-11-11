@@ -146,3 +146,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 ## November 11, 2026
 - Created `methodology.md` to document the complete data processing pipeline for the ICEE paper.
 - Created `references.md` with IEEE formatted citations for the ICEE paper.
+- Created `presentation_outline.md` to structure the final project pitch.
