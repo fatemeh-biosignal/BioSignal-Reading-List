@@ -151,3 +151,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 ## November 12, 2026
 - Created `competitive_analysis.md` to compare the device with Holter monitors and smartwatches.
 - Created `regulatory_pathway.md` to outline the FDA/CE/IRC approval process.
+- Created `innovation_statement.md` to highlight the unique technical and clinical novelties.
