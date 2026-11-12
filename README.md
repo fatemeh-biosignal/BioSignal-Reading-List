@@ -91,6 +91,7 @@ Here is a guide to what you can find in this repository:
 - 🧑‍⚕️ **[Patient Journey](patient_journey.md[)** — UX map of the patient and doctor experience.
 - ⚖️ **[Competitive Analysis](competitive_analysis.md)** — Comparison with existing market solutions.
 - ⚖️ **[Regulatory Pathway](regulatory_pathway.md)** — Legal requirements for commercialization.
+- 💡 **[Innovation Statement](innovation_statement.md)** — Core novelties of the project.
 ## 🌱 Current Status
 - 🧪 Actively building my foundation in Biomedical Signal Processing and embedded systems.
 - 📅 Preparing a research proposal for the Khwarizmi International Award (submission in Fall 2027).
