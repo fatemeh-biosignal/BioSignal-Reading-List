@@ -148,3 +148,5 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `references.md` with IEEE formatted citations for the ICEE paper.
 - Created `presentation_outline.md` to structure the final project pitch.
 - Created `patient_journey.md` to visualize the user experience for patients and doctors.
+## November 12, 2026
+- Created `competitive_analysis.md` to compare the device with Holter monitors and smartwatches.
