@@ -89,6 +89,7 @@ Here is a guide to what you can find in this repository:
 - 📚 **[References](references.md)** — IEEE formatted bibliography.
 - 🎤 **[Presentation Outline](presentation_outline.md)** — Slide-by-slide pitch for Khwarizmi.
 - 🧑‍⚕️ **[Patient Journey](patient_journey.md[)** — UX map of the patient and doctor experience.
+- ⚖️ **[Competitive Analysis](competitive_analysis.md)** — Comparison with existing market solutions.
 ## 🌱 Current Status
 - 🧪 Actively building my foundation in Biomedical Signal Processing and embedded systems.
 - 📅 Preparing a research proposal for the Khwarizmi International Award (submission in Fall 2027).
