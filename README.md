@@ -92,6 +92,7 @@ Here is a guide to what you can find in this repository:
 - ⚖️ **[Competitive Analysis](competitive_analysis.md)** — Comparison with existing market solutions.
 - ⚖️ **[Regulatory Pathway](regulatory_pathway.md)** — Legal requirements for commercialization.
 - 💡 **[Innovation Statement](innovation_statement.md)** — Core novelties of the project.
+- 🛡️ **[Intellectual Property](intellectual_property.md)** — Patent and open-source licensing strategy.
 ## 🌱 Current Status
 - 🧪 Actively building my foundation in Biomedical Signal Processing and embedded systems.
 - 📅 Preparing a research proposal for the Khwarizmi International Award (submission in Fall 2027).
