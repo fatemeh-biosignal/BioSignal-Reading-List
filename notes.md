@@ -159,3 +159,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `future_features.md` to outline the roadmap for future hardware and AI enhancements.
 - Created `social_impact.md` to highlight the societal and economic benefits.
 - Created `threats_to_validity.md` to acknowledge research limitations for the ICEE paper.
+- Created `contributions.md` to highlight the academic and engineering novelties.
