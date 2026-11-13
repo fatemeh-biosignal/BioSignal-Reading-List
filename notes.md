@@ -158,3 +158,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `CONTRIBUTORS.md` to establish coding standards and Git workflow.
 - Created `future_features.md` to outline the roadmap for future hardware and AI enhancements.
 - Created `social_impact.md` to highlight the societal and economic benefits.
+- Created `threats_to_validity.md` to acknowledge research limitations for the ICEE paper.
