@@ -154,3 +154,5 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `innovation_statement.md` to highlight the unique technical and clinical novelties.
 - Created `intellectual_property.md` to define the patent and open-source strategy.
 - Created `scalability_plan.md` to outline strategies for scaling to mass production.
+## November 13, 2026
+- Created `CONTRIBUTORS.md` to establish coding standards and Git workflow.
