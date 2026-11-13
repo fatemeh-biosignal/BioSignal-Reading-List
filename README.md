@@ -96,6 +96,7 @@ Here is a guide to what you can find in this repository:
 - 📈 **[Scalability Plan](scalability_plan.md)** — Strategy for mass production and deployment.
 - 👥 **[Contributors Guide](CONTRIBUTORS.md)** — Coding standards and Git workflow.
 - 🚀 **[Future Features](future_features.md)** — Roadmap for Version 2.0 and beyond.
+- 🌍 **[Social Impact](social_impact.md)** — Healthcare and economic impact of the project.
 ## 🌱 Current Status
 - 🧪 Actively building my foundation in Biomedical Signal Processing and embedded systems.
 - 📅 Preparing a research proposal for the Khwarizmi International Award (submission in Fall 2027).
