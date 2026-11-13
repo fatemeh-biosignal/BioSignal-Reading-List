@@ -156,3 +156,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `scalability_plan.md` to outline strategies for scaling to mass production.
 ## November 13, 2026
 - Created `CONTRIBUTORS.md` to establish coding standards and Git workflow.
+- Created `future_features.md` to outline the roadmap for future hardware and AI enhancements.
