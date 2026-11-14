@@ -165,3 +165,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `hardware_security.md` to document Secure Boot and hardware encryption.
 - Created `scientific_poster.md` to plan the visual presentation for ICEE.
 - Created `circuit_schematic.md` to visualize the electrical circuit and decoupling capacitors.
+- Created `board_test_plan.md` to document hardware testing procedures.
