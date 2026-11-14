@@ -164,3 +164,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `system_architecture.md` to provide a unified view of the hardware, software, and AI layers.
 - Created `hardware_security.md` to document Secure Boot and hardware encryption.
 - Created `scientific_poster.md` to plan the visual presentation for ICEE.
+- Created `circuit_schematic.md` to visualize the electrical circuit and decoupling capacitors.
