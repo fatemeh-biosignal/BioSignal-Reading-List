@@ -103,6 +103,7 @@ Here is a guide to what you can find in this repository:
 - 🛡️ **[Hardware Security](hardware_security.md)** — Secure boot and tamper detection.
 - 🖼️ **[Scientific Poster](scientific_poster.md)** — Layout for the ICEE 2027 poster.
 - ⚡ **[Circuit Schematic](circuit_schematic.md)** — Block-level electrical connections.
+- 🛠️ **[Board Test Plan](board_test_plan.md)** — Step-by-step hardware validation.
 ## 🌱 Current Status
 - 🧪 Actively building my foundation in Biomedical Signal Processing and embedded systems.
 - 📅 Preparing a research proposal for the Khwarizmi International Award (submission in Fall 2027).
