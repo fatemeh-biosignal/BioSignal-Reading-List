@@ -104,6 +104,7 @@ Here is a guide to what you can find in this repository:
 - 🖼️ **[Scientific Poster](scientific_poster.md)** — Layout for the ICEE 2027 poster.
 - ⚡ **[Circuit Schematic](circuit_schematic.md)** — Block-level electrical connections.
 - 🛠️ **[Board Test Plan](board_test_plan.md)** — Step-by-step hardware validation.
+- 🔧 **[Reliability & Maintenance](reliability_maintenance.md)** — Long-term product lifecycle plan.
 ## 🌱 Current Status
 - 🧪 Actively building my foundation in Biomedical Signal Processing and embedded systems.
 - 📅 Preparing a research proposal for the Khwarizmi International Award (submission in Fall 2027).
