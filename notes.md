@@ -160,3 +160,5 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `social_impact.md` to highlight the societal and economic benefits.
 - Created `threats_to_validity.md` to acknowledge research limitations for the ICEE paper.
 - Created `contributions.md` to highlight the academic and engineering novelties.
+## November 14, 2026
+- Created `system_architecture.md` to provide a unified view of the hardware, software, and AI layers.
