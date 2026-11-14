@@ -100,6 +100,7 @@ Here is a guide to what you can find in this repository:
 - ⚠️ **[Threats to Validity](threats_to_validity.md)** — Scientific limitations of the study.
 - 🏆 **[Contributions](contributions.md)** — Key scientific and engineering achievements.
 - 🏗️ **[System Architecture](system_architecture.md)** — High-level overview of hardware and software layers.
+- 🛡️ **[Hardware Security](hardware_security.md)** — Secure boot and tamper detection.
 ## 🌱 Current Status
 - 🧪 Actively building my foundation in Biomedical Signal Processing and embedded systems.
 - 📅 Preparing a research proposal for the Khwarizmi International Award (submission in Fall 2027).
