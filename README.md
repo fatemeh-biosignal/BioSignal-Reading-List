@@ -101,6 +101,7 @@ Here is a guide to what you can find in this repository:
 - 🏆 **[Contributions](contributions.md)** — Key scientific and engineering achievements.
 - 🏗️ **[System Architecture](system_architecture.md)** — High-level overview of hardware and software layers.
 - 🛡️ **[Hardware Security](hardware_security.md)** — Secure boot and tamper detection.
+- 🖼️ **[Scientific Poster](scientific_poster.md)** — Layout for the ICEE 2027 poster.
 ## 🌱 Current Status
 - 🧪 Actively building my foundation in Biomedical Signal Processing and embedded systems.
 - 📅 Preparing a research proposal for the Khwarizmi International Award (submission in Fall 2027).
