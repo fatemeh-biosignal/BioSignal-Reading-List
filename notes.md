@@ -162,3 +162,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `contributions.md` to highlight the academic and engineering novelties.
 ## November 14, 2026
 - Created `system_architecture.md` to provide a unified view of the hardware, software, and AI layers.
+- Created `hardware_security.md` to document Secure Boot and hardware encryption.
