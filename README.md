@@ -110,6 +110,7 @@ Here is a guide to what you can find in this repository:
 - 🎯 **[GTM Strategy](go_to_market_strategy.md)** — Marketing and sales roadmap.
 - 💰 **[Revenue Model](revenue_model.md)** — Financial strategy and revenue streams.
 - 💵 **[Fundraising Strategy](fundraising_strategy.md)** — Investment phases from pre-seed to Series A.
+- 🚧 **[Risk Management](risk_management_plan.md)** — Technical and financial risk mitigation.
 ## 🌱 Current Status
 - 🧪 Actively building my foundation in Biomedical Signal Processing and embedded systems.
 - 📅 Preparing a research proposal for the Khwarizmi International Award (submission in Fall 2027).
