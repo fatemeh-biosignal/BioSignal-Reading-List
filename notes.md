@@ -174,3 +174,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `value_proposition.md` to define the unique benefits for patients and hospitals.
 - Created `go_to_market_strategy.md` to outline the commercialization phases.
 - Created `revenue_model.md` to outline the financial strategy and projections.
+- Created `fundraising_strategy.md` to outline the investment phases and funding sources.
