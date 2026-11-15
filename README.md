@@ -108,6 +108,7 @@ Here is a guide to what you can find in this repository:
 - 📦 **[Packaging Design](packaging_design.md)** — Unboxing experience and product contents.
 - 💎 **[Value Proposition](value_proposition.md)** — Why patients and doctors should choose BioSignal.
 - 🎯 **[GTM Strategy](go_to_market_strategy.md)** — Marketing and sales roadmap.
+- 💰 **[Revenue Model](revenue_model.md)** — Financial strategy and revenue streams.
 ## 🌱 Current Status
 - 🧪 Actively building my foundation in Biomedical Signal Processing and embedded systems.
 - 📅 Preparing a research proposal for the Khwarizmi International Award (submission in Fall 2027).
