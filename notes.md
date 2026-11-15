@@ -172,3 +172,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `packaging_design.md` to plan the physical product packaging and user experience.
 ## November 15, 2026
 - Created `value_proposition.md` to define the unique benefits for patients and hospitals.
+- Created `go_to_market_strategy.md` to outline the commercialization phases.
