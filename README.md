@@ -113,6 +113,7 @@ Here is a guide to what you can find in this repository:
 - 🚧 **[Risk Management](risk_management_plan.md)** — Technical and financial risk mitigation.
 - 🏆 **[Khwarizmi Checklist](khwarizmi_checklist.md)** — Full readiness checklist for the award.
 - 🔭 **[Future Work](future_work.md)** — Planned research and development directions.
+- 📝 **[Publication Guide](publication_guide.md)** — IEEE formatting and submission rules.
 ## 🌱 Current Status
 - 🧪 Actively building my foundation in Biomedical Signal Processing and embedded systems.
 - 📅 Preparing a research proposal for the Khwarizmi International Award (submission in Fall 2027).
