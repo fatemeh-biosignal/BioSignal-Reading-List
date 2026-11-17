@@ -179,3 +179,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 ## November 17, 2026
 - Created `khwarizmi_checklist.md` to ensure all project aspects are ready for submission.
 - Created `future_work.md` to outline the next steps for the project.
+- Created `publication_guide.md` to ensure compliance with IEEE standards for ICEE.
