@@ -178,3 +178,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `risk_management_plan.md` to identify project risks and mitigation strategies.
 ## November 17, 2026
 - Created `khwarizmi_checklist.md` to ensure all project aspects are ready for submission.
+- Created `future_work.md` to outline the next steps for the project.
