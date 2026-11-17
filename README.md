@@ -115,6 +115,7 @@ Here is a guide to what you can find in this repository:
 - 🔭 **[Future Work](future_work.md)** — Planned research and development directions.
 - 📝 **[Publication Guide](publication_guide.md)** — IEEE formatting and submission rules.
 - 📊 **[Cost-Benefit Analysis](cost_benefit_analysis.md)** — Economic justification of the device.
+- ⚖️ **[Ethical Framework](ethical_framework.md)** — AI ethics and patient rights.
 ## 🌱 Current Status
 - 🧪 Actively building my foundation in Biomedical Signal Processing and embedded systems.
 - 📅 Preparing a research proposal for the Khwarizmi International Award (submission in Fall 2027).
