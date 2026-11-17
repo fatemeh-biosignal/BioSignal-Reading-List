@@ -181,3 +181,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `future_work.md` to outline the next steps for the project.
 - Created `publication_guide.md` to ensure compliance with IEEE standards for ICEE.
 - Created `cost_benefit_analysis.md` to prove the economic value of the project.
+- Created `ethical_framework.md` to outline the ethical principles for AI in medicine.
