@@ -186,3 +186,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `journal_submission_guide.md` to plan future journal publications.
 - Created `patent_strategy.md` to define the steps for filing a patent for the CS-TinyML pipeline.
 - Created `emerging_tech_integration.md` to explore future tech integrations.
+- Created `team_structure.md` to define future roles and the organizational chart.
