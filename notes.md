@@ -184,3 +184,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `ethical_framework.md` to outline the ethical principles for AI in medicine.
 ## November 18, 2026
 - Created `journal_submission_guide.md` to plan future journal publications.
+- Created `patent_strategy.md` to define the steps for filing a patent for the CS-TinyML pipeline.
