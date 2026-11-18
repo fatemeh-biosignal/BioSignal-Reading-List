@@ -117,6 +117,7 @@ Here is a guide to what you can find in this repository:
 - 📊 **[Cost-Benefit Analysis](cost_benefit_analysis.md)** — Economic justification of the device.
 - ⚖️ **[Ethical Framework](ethical_framework.md)** — AI ethics and patient rights.
 - 📑 **[Journal Submission](journal_submission_guide.md)** — Strategy for publishing in high-impact journals.
+- 📜 **[Patent Strategy](patent_strategy.md)** — Plan for protecting the novel aspects of the device.
 ## 🌱 Current Status
 - 🧪 Actively building my foundation in Biomedical Signal Processing and embedded systems.
 - 📅 Preparing a research proposal for the Khwarizmi International Award (submission in Fall 2027).
