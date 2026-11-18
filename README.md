@@ -119,6 +119,7 @@ Here is a guide to what you can find in this repository:
 - 📑 **[Journal Submission](journal_submission_guide.md)** — Strategy for publishing in high-impact journals.
 - 📜 **[Patent Strategy](patent_strategy.md)** — Plan for protecting the novel aspects of the device.
 - 🌐 **[Emerging Tech](emerging_tech_integration.md)** — Integration with 6G, GenAI, and Digital Twins.
+- 👥 **[Team Structure](team_structure.md)** — Roles and organizational chart.
 ## 🌱 Current Status
 - 🧪 Actively building my foundation in Biomedical Signal Processing and embedded systems.
 - 📅 Preparing a research proposal for the Khwarizmi International Award (submission in Fall 2027).
