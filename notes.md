@@ -185,3 +185,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 ## November 18, 2026
 - Created `journal_submission_guide.md` to plan future journal publications.
 - Created `patent_strategy.md` to define the steps for filing a patent for the CS-TinyML pipeline.
+- Created `emerging_tech_integration.md` to explore future tech integrations.
