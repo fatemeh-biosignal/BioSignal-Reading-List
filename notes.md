@@ -194,3 +194,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `results_and_discussion.md` as a structured draft for the ICEE paper.
 - Created `paper_introduction_draft.md` to finalize the paper's introduction and contributions.
 - Created `paper_related_work.md` to draft the literature review section for ICEE.
+- Created `paper_methodology_draft.md` to finalize the methodology section of the paper.
