@@ -121,6 +121,7 @@ Here is a guide to what you can find in this repository:
 - 🌐 **[Emerging Tech](emerging_tech_integration.md)** — Integration with 6G, GenAI, and Digital Twins.
 - 👥 **[Team Structure](team_structure.md)** — Roles and organizational chart.
 - 📋 **[Execution Plan](project_execution_plan.md)** — Actionable steps and budget for each phase.
+- ✍️ **[Authorship Guidelines](authorship_guidelines.md)** — ICMJE standards for scientific contributions.
 ## 🌱 Current Status
 - 🧪 Actively building my foundation in Biomedical Signal Processing and embedded systems.
 - 📅 Preparing a research proposal for the Khwarizmi International Award (submission in Fall 2027).
