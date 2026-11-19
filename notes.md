@@ -188,3 +188,5 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `emerging_tech_integration.md` to explore future tech integrations.
 - Created `team_structure.md` to define future roles and the organizational chart.
 - Created `project_execution_plan.md` to outline the actionable steps and budget.
+## November 19, 2026
+- Created `authorship_guidelines.md` to define ethical authorship criteria for future publications.
