@@ -190,3 +190,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `project_execution_plan.md` to outline the actionable steps and budget.
 ## November 19, 2026
 - Created `authorship_guidelines.md` to define ethical authorship criteria for future publications.
+- Created `experimental_setup.md` to document the research environment and evaluation metrics.
