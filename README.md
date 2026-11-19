@@ -126,6 +126,7 @@ Here is a guide to what you can find in this repository:
 - 📈 **[Results & Discussion](results_and_discussion.md)** — Draft for the paper's results section.
 - ✍️ **[Introduction Draft](paper_introduction_draft.md)** — Final text for the paper's introduction section.
 - 📖 **[Related Work Draft](paper_related_work.md)** — Section II of the paper (Literature Review).
+- 🛠️ **[Methodology Draft](paper_methodology_draft.md)** — Section III of the paper (System Design).
 ## 🌱 Current Status
 - 🧪 Actively building my foundation in Biomedical Signal Processing and embedded systems.
 - 📅 Preparing a research proposal for the Khwarizmi International Award (submission in Fall 2027).
