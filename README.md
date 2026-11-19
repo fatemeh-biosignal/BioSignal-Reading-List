@@ -99,6 +99,7 @@ Here is a categorized guide to what you can find in this repository:
 - 👥 **[Team Structure](team_structure.md)** — Roles and organizational chart.
 - 📋 **[Execution Plan](project_execution_plan.md)** — Actionable steps and budget.
 - 🚧 **[Risk Management](risk_management_plan.md)** — Risk mitigation.
+- 🔄 **[User Feedback Plan](user_feedback_plan.md)** — Strategy for collecting feedback and iterating.
 
 ### 📚 Research & Publications
 - ✍️ **[Paper Abstract](paper_abstract.md)** — Draft for ICEE 2027.
