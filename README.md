@@ -123,6 +123,7 @@ Here is a guide to what you can find in this repository:
 - 📋 **[Execution Plan](project_execution_plan.md)** — Actionable steps and budget for each phase.
 - ✍️ **[Authorship Guidelines](authorship_guidelines.md)** — ICMJE standards for scientific contributions.
 - 🧪 **[Experimental Setup](experimental_setup.md)** — Hardware/Software environment and evaluation metrics.
+- 📈 **[Results & Discussion](results_and_discussion.md)** — Draft for the paper's results section.
 ## 🌱 Current Status
 - 🧪 Actively building my foundation in Biomedical Signal Processing and embedded systems.
 - 📅 Preparing a research proposal for the Khwarizmi International Award (submission in Fall 2027).
