@@ -121,6 +121,7 @@ Here is a categorized guide to what you can find in this repository:
 - ⚠️ **[Threats to Validity](threats_to_validity.md)** — Scientific limitations.
 - 🏆 **[Contributions](contributions.md)** — Key scientific achievements.
 - ✍️ **[Authorship Guidelines](authorship_guidelines.md)** — ICMJE standards.
+- 🏁 **[Conclusion Draft](paper_conclusion_draft.md)** — Final section of the ICEE paper.
 
 ### 🌍 Community & Standards
 - 🤝 **[Contributing](CONTRIBUTING.md)** — Guidelines for open-source contributions.
