@@ -196,3 +196,5 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `paper_related_work.md` to draft the literature review section for ICEE.
 - Created `paper_methodology_draft.md` to finalize the methodology section of the paper.
 - Created `user_feedback_plan.md` to outline the strategy for user testing and Agile iteration.
+### November 20, 2026
+- Created `paper_conclusion_draft.md` to complete all 5 sections of the ICEE paper.
