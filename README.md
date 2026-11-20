@@ -74,13 +74,14 @@ Here is a categorized guide to what you can find in this repository:
 - 🛡️ **[Hardware Security](hardware_security.md)** — Secure boot and tamper detection.
 - 🛠️ **[Reliability & Maintenance](reliability_maintenance.md)** — Product lifecycle plan.
 
-### 🏥 Medical & Clinical
+### 🩺  Medical & Clinical
 - 🩺 **[Clinical Roadmap](clinical_roadmap.md)** — Steps for clinical validation.
 - 🏥 **[Clinical & Safety](clinical_safety.md)** — Medical standards (IEC 60601, ISO 10993).
 - 🏥 **[Medical Data Standard](medical_data_standard.md)** — HL7 FHIR integration.
 - 🧑‍⚕️ **[Patient Journey](patient_journey.md)** — UX map of the patient experience.
 - ⚖️ **[Ethical Framework](ethical_framework.md)** — AI ethics and patient rights.
 - ⚠️ **[Risk Analysis](risk_analysis.md)** — FMEA and safety mitigation strategies.
+- 📋 **[Clinical Trial Protocol](clinical_trial_protocol.md)** — Design for the human pilot study.
 
 ### 📊 Business & Commercialization
 - 💼 **[Business Model](business_model.md)** — Value proposition and revenue streams.
