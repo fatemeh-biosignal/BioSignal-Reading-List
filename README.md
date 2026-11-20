@@ -101,6 +101,7 @@ Here is a categorized guide to what you can find in this repository:
 - 📋 **[Execution Plan](project_execution_plan.md)** — Actionable steps and budget.
 - 🚧 **[Risk Management](risk_management_plan.md)** — Risk mitigation.
 - 🔄 **[User Feedback Plan](user_feedback_plan.md)** — Strategy for collecting feedback and iterating.
+- 📊 **[SWOT Analysis](swot_analysis.md)** — Strategic analysis of strengths and threats.
 
 ### 📚 Research & Publications
 - ✍️ **[Paper Abstract](paper_abstract.md)** — Draft for ICEE 2027.
