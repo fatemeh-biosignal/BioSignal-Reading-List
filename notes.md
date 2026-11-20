@@ -203,3 +203,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `clinical_trial_protocol.md` to outline the human validation study.
 - Created `swot_analysis.md` to evaluate the project's strategic position.
 - Created `technology_readiness_level.md` to assess the project's maturity using the TRL scale.
+- Created `fact_sheet.md` to provide a quick, one-page summary of the project.
