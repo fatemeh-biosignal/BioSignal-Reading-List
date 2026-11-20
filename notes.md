@@ -201,3 +201,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `full_paper_manuscript.md` to assemble all sections of the paper.
 - Created `demo_script.md` to plan the visual presentation of the project.
 - Created `clinical_trial_protocol.md` to outline the human validation study.
+- Created `swot_analysis.md` to evaluate the project's strategic position.
