@@ -122,6 +122,7 @@ Here is a categorized guide to what you can find in this repository:
 - 🏆 **[Contributions](contributions.md)** — Key scientific achievements.
 - ✍️ **[Authorship Guidelines](authorship_guidelines.md)** — ICMJE standards.
 - 🏁 **[Conclusion Draft](paper_conclusion_draft.md)** — Final section of the ICEE paper.
+- 📑 **[Full Manuscript](full_paper_manuscript.md)** — Master template linking all paper sections.
 
 ### 🌍 Community & Standards
 - 🤝 **[Contributing](CONTRIBUTING.md)** — Guidelines for open-source contributions.
