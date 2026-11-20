@@ -33,6 +33,7 @@ Here is a categorized guide to what you can find in this repository:
 - 🏆 **[Khwarizmi Checklist](khwarizmi_checklist.md)** — Readiness checklist for the award.
 - 💭 **[Brainstorming](ideas.md)** — Future ideas for the wearable ECG.
 - 📈 **[TRL Assessment](technology_readiness_level.md)** — Technology readiness level (TRL 1-9).
+- 📄 **[Fact Sheet](fact_sheet.md)** — One-page overview of the entire project.
 
 ### 💻 Software & Algorithms
 - 🚀 **[Main Pipeline](main.py)** — The main script to run the entire project.
