@@ -32,6 +32,7 @@ Here is a categorized guide to what you can find in this repository:
 - 🚀 **[Future Roadmap](future_roadmap.md)** — Path from simulation to a commercial device.
 - 🏆 **[Khwarizmi Checklist](khwarizmi_checklist.md)** — Readiness checklist for the award.
 - 💭 **[Brainstorming](ideas.md)** — Future ideas for the wearable ECG.
+- 📈 **[TRL Assessment](technology_readiness_level.md)** — Technology readiness level (TRL 1-9).
 
 ### 💻 Software & Algorithms
 - 🚀 **[Main Pipeline](main.py)** — The main script to run the entire project.
