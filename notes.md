@@ -200,3 +200,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `paper_conclusion_draft.md` to complete all 5 sections of the ICEE paper.
 - Created `full_paper_manuscript.md` to assemble all sections of the paper.
 - Created `demo_script.md` to plan the visual presentation of the project.
+- Created `clinical_trial_protocol.md` to outline the human validation study.
