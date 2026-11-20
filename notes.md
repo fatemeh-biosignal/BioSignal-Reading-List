@@ -198,3 +198,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `user_feedback_plan.md` to outline the strategy for user testing and Agile iteration.
 ### November 20, 2026
 - Created `paper_conclusion_draft.md` to complete all 5 sections of the ICEE paper.
+- Created `full_paper_manuscript.md` to assemble all sections of the paper.
