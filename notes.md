@@ -207,3 +207,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 ### November 21, 2026
 - Created `user_personas.md` to define the target users (patients, doctors, and families).
 - Created `tinyml_optimization.md` to document quantization and fixed-point arithmetic for the STM32.
+- Created `reviewer_rebuttal_plan.md` to anticipate and answer future peer-review questions.
