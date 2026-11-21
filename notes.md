@@ -206,3 +206,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `fact_sheet.md` to provide a quick, one-page summary of the project.
 ### November 21, 2026
 - Created `user_personas.md` to define the target users (patients, doctors, and families).
+- Created `tinyml_optimization.md` to document quantization and fixed-point arithmetic for the STM32.
