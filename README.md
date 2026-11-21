@@ -34,6 +34,7 @@ Here is a categorized guide to what you can find in this repository:
 - 💭 **[Brainstorming](ideas.md)** — Future ideas for the wearable ECG.
 - 📈 **[TRL Assessment](technology_readiness_level.md)** — Technology readiness level (TRL 1-9).
 - 📄 **[Fact Sheet](fact_sheet.md)** — One-page overview of the entire project.
+- 👤 **[User Personas](user_personas.md)** — Target users and their clinical needs.
 
 ### 💻 Software & Algorithms
 - 🚀 **[Main Pipeline](main.py)** — The main script to run the entire project.
