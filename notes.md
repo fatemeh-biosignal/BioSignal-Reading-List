@@ -3,54 +3,54 @@
 Short notes and observations from my daily reading on biomedical signal processing.
 ---
 
-## October 15, 2026
+### October 15, 2026
 - Started my GitHub research journal today.
 - Focus areas: Compressive Sensing, ECG, TinyML, SAR ADC.
 - Next: reading about FISTA vs OMP for on-device ECG reconstruction.
-## October 16, 2026
+### October 16, 2026
 - Reviewed README structure and added "Files in this repo" section.
 - Next: reading about Compressive Sensing matrices for ECG.
-## October 20, 2026
+### October 20, 2026
 - Successfully added plotting code to `compressed_sensing_demo.py`.
 - Learned how to use `plt.subplot` to show two graphs side-by-side.
 - The red dots will represent the 30% of samples we kept, while the blue line is the original.
-## October 22, 2026
+### October 22, 2026
 - Created `reconstruction_demo.py` to demonstrate how to recover a signal from compressed samples.
 - Learned how `np.interp` works in Python (Linear interpolation for missing points).
 - Note: Linear interpolation is just a temporary placeholder. In the next phase, I will implement the OMP algorithm for more accurate reconstruction.
-## October 23, 2026
+### October 23, 2026
 - Created `real_ecg_analysis.py` to simulate real-world ECG data and apply noise filtering.
 - Learned how `np.convolve` works in Python (Moving average filter for noise reduction).
 - Note: Filtering is a necessary step before applying Compressive Sensing to ensure data quality.
-## October 24, 2026
+### October 24, 2026
 - Created `results_report.md` to summarize the simulations and algorithms implemented so far.
 - This report will be the foundation for the ICEE 2027 paper and the Khwarizmi proposal.
 - Created `math_model.md` documenting the core mathematical equations of Compressive Sensing (y = Phi * x, L1-minimization).
 - This document will be the theoretical foundation for the OMP algorithm implementation.
-## October 25, 2026
+### October 25, 2026
 - Created `omp_reconstruction.py` to implement the Orthogonal Matching Pursuit (OMP) algorithm.
 - This is a major upgrade from linear interpolation, using least squares optimization to recover the signal.
 - Learned how to use `np.linalg.lstsq` in Python for solving matrix equations.
-## October 26, 2026
+### October 26, 2026
 - Created `load_real_data.py` to simulate loading a real MIT-BIH ECG record.
 - The script accounts for the 360 Hz sampling rate used in standard medical datasets.
 - Note: Next step is to integrate the `wfdb` library to read actual PhysioNet data.
-## October 27, 2026
+### October 27, 2026
 - Created `wavelet_analysis.py` to apply Discrete Wavelet Transform (DWT) using PyWavelets.
 - Learned how wavelets (like 'db4') make the ECG signal sparse, which is a crucial step before applying Compressive Sensing.
 - Updated `requirements.txt` to include `PyWavelets`.
-## October 28, 2026
+### October 28, 2026
 - Created `tinyml_classifier.py`, my first Machine Learning model for ECG analysis.
 - Used `scikit-learn` (Random Forest) to classify between Normal and Arrhythmia heartbeats.
 - Note: This is the foundational step for implementing TinyML on a low-power microcontroller.
 - Added feature importance visualization to the TinyML classifier.
 - This helps in understanding which parts of the ECG signal the Random Forest model focuses on for arrhythmia detection.
 - Learned how to extract and plot `model.feature_importances_` in scikit-learn.
-## October 29, 2026
+### October 29, 2026
 - Created `main.py`, a central dashboard script that runs the entire pipeline.
 - Integrated the `ECGProcessor` class, signal filtering, and the TinyML Random Forest model into one execution file.
 - This script generates a 4-panel visualization showing raw, filtered, compressed signals, and AI feature importance.
-## October 30, 2026
+### October 30, 2026
 - Created `documentation.md` to provide a technical overview of all project modules.
 - This file will serve as the foundation for the "Methodology" section of the ICEE 2027 paper.
 - Created `architecture.md` to visualize the data flow from the ECG sensor to the TinyML classifier.
@@ -60,15 +60,15 @@ Short notes and observations from my daily reading on biomedical signal processi
 - This bridges the gap between the software simulation and the actual wearable device.
 - Created `executive_summary.md` to provide a high-level overview of the project for reviewers and award committees.
 - This document will be the first thing judges read for the Khwarizmi Award.
-## October 31, 2026
+### October 31, 2026
 - Added `ai_competitions.md` to track future AI competitions and medical datasets.
 - This will help me plan my future research and portfolio after the entrance exam.
-## November 1, 2026
+### November 1, 2026
 - Created `future_roadmap.md` outlining the path from software simulation to hardware prototyping and commercialization.
 - This document is crucial for the Khwarizmi Award, showing the practical and commercial potential of the project.
 - Created `paper_abstract.md` as a draft for the ICEE 2027 paper.
 - The abstract summarizes the entire project (CS, TinyML, OMP) in a professional academic format.
-## November 2, 2026
+### November 2, 2026
 - Created `control_system.md` to define the state machine and power management strategy for the wearable device.
 - This ensures the device operates efficiently and maximizes battery life.
 - Created `embedded_c_code.c` to demonstrate how the filtering logic can be implemented in C for microcontrollers.
@@ -90,9 +90,9 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Emphasized data encryption (AES-128) and patient privacy.
 - Created `paper_draft.md` to outline the full structure of the ICEE 2027 paper.
 - This will serve as the main skeleton for writing the final manuscript.
-## November 3, 2026
+### November 3, 2026
 - Created `market_analysis.md` to define the target audience and value proposition of the device.
-- ## November 15, 2026
+### November 15, 2026
 - Created `value_proposition.md` to define the unique benefits for patients and hospitals.
 - This document will help in the commercialization phase and the Khwarizmi Award presentation.
 - Created `gui_dashboard.py` using Tkinter to provide a visual interface for the project.
@@ -104,26 +104,26 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `faq.md` to answer common questions from judges, investors, and researchers.
 - Created `pitch_summary.md` as a quick overview for investors and Khwarizmi judges.
 - This wraps up all the necessary documentation for the project.
-## November 4, 2026
+### November 4, 2026
 - Created `problem_statement.md` with global statistics (WHO) to highlight the importance of the project.
 - This document clearly defines the problem and our proposed low-power solution.
 - Created `business_model.md` to outline the commercial viability of the device.
 - Created `clinical_roadmap.md` to outline the validation steps.
 - Created `advanced_filtering.py` using Butterworth bandpass filter for noise reduction.
 - Created `advanced_filtering.py` to implement a Butterworth bandpass filter for real-world ECG noise.
-## November 5, 2026
+### November 5, 2026
 - Created `CONTRIBUTING.md` to establish open-source guidelines for future collaborators.
 - This aligns the project with international software engineering standards.
 - Created `results_summary.md` to document the quantitative results (CS, MSE, TinyML).
 - This file will form the "Results" section of the ICEE paper.
 - Created `vision.md` to outline the long-term goals of the project.
-## November 6, 2026
+### November 6, 2026
 - Created `CITATION.cff` to allow other researchers to properly cite this project in their academic work.
 - Created `CHANGELOG.md` to track project versions and document planned hardware updates.
 - Created `literature_review.md` to summarize related works (including Safarpour, Charmi, et al.) and define the research gap.
 - Created `srs.md` to define functional and non-functional requirements (battery life, latency, privacy).
 - Created `test_plan.md` to define testing strategies from unit tests to clinical validation.
-## November 7, 2026
+### November 7, 2026
 - Created `user_manual.md` to provide clear instructions and troubleshooting for end-users.
 - Created `project_timeline.md` using Mermaid to visualize the project schedule.
 - Created `hardware_wiring.md` to visualize the connections between the ECG sensor, MCU, and BLE module.
@@ -131,38 +131,38 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `pcb_design_plan.md` based on my past experience with Altium Designer.
 - Created `bom_estimate.md` to estimate the manufacturing cost for the MVP prototype.
 - Created `medical_data_standard.md` to ensure compliance with HL7 FHIR standards for hospital integration.
-## November 8, 2026
+### November 8, 2026
 - Created `SECURITY.md` to define the data encryption (AES-128) and privacy policies.
 - Created `model_card.md` to document the machine learning model's architecture and limitations.
 - Created `data_management_plan.md` to define data storage and patient privacy policies.
 - Created `CODE_OF_CONDUCT.md` to establish community and ethical guidelines.
-## November 9, 2026
+### November 9, 2026
 - Created `software_design.md` to document the OOP architecture and data flow of the Python modules.
 - Created `setup_guide.md` to ensure the project is reproducible for other developers.
 - Created `README.fa.md` (Persian version) and linked it to the main README for bilingual accessibility.
 - Created `data_availability.md` to comply with IEEE/Nature publishing standards.
-## November 10, 2026
+### November 10, 2026
 - Created `risk_analysis.md` to document FMEA and patient safety strategies.
 - Updated `glossary.md` with comprehensive technical and medical terms for better project documentation.
 - Created `business_model_canvas.md` using Mermaid to visualize the startup model.
-## November 11, 2026
+### November 11, 2026
 - Created `methodology.md` to document the complete data processing pipeline for the ICEE paper.
 - Created `references.md` with IEEE formatted citations for the ICEE paper.
 - Created `presentation_outline.md` to structure the final project pitch.
 - Created `patient_journey.md` to visualize the user experience for patients and doctors.
-## November 12, 2026
+### November 12, 2026
 - Created `competitive_analysis.md` to compare the device with Holter monitors and smartwatches.
 - Created `regulatory_pathway.md` to outline the FDA/CE/IRC approval process.
 - Created `innovation_statement.md` to highlight the unique technical and clinical novelties.
 - Created `intellectual_property.md` to define the patent and open-source strategy.
 - Created `scalability_plan.md` to outline strategies for scaling to mass production.
-## November 13, 2026
+### November 13, 2026
 - Created `CONTRIBUTORS.md` to establish coding standards and Git workflow.
 - Created `future_features.md` to outline the roadmap for future hardware and AI enhancements.
 - Created `social_impact.md` to highlight the societal and economic benefits.
 - Created `threats_to_validity.md` to acknowledge research limitations for the ICEE paper.
 - Created `contributions.md` to highlight the academic and engineering novelties.
-## November 14, 2026
+### November 14, 2026
 - Created `system_architecture.md` to provide a unified view of the hardware, software, and AI layers.
 - Created `hardware_security.md` to document Secure Boot and hardware encryption.
 - Created `scientific_poster.md` to plan the visual presentation for ICEE.
@@ -170,25 +170,25 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `board_test_plan.md` to document hardware testing procedures.
 - Created `reliability_maintenance.md` to address hardware longevity and end-user maintenance.
 - Created `packaging_design.md` to plan the physical product packaging and user experience.
-## November 15, 2026
+### November 15, 2026
 - Created `value_proposition.md` to define the unique benefits for patients and hospitals.
 - Created `go_to_market_strategy.md` to outline the commercialization phases.
 - Created `revenue_model.md` to outline the financial strategy and projections.
 - Created `fundraising_strategy.md` to outline the investment phases and funding sources.
 - Created `risk_management_plan.md` to identify project risks and mitigation strategies.
-## November 17, 2026
+### November 17, 2026
 - Created `khwarizmi_checklist.md` to ensure all project aspects are ready for submission.
 - Created `future_work.md` to outline the next steps for the project.
 - Created `publication_guide.md` to ensure compliance with IEEE standards for ICEE.
 - Created `cost_benefit_analysis.md` to prove the economic value of the project.
 - Created `ethical_framework.md` to outline the ethical principles for AI in medicine.
-## November 18, 2026
+### November 18, 2026
 - Created `journal_submission_guide.md` to plan future journal publications.
 - Created `patent_strategy.md` to define the steps for filing a patent for the CS-TinyML pipeline.
 - Created `emerging_tech_integration.md` to explore future tech integrations.
 - Created `team_structure.md` to define future roles and the organizational chart.
 - Created `project_execution_plan.md` to outline the actionable steps and budget.
-## November 19, 2026
+### November 19, 2026
 - Created `authorship_guidelines.md` to define ethical authorship criteria for future publications.
 - Created `experimental_setup.md` to document the research environment and evaluation metrics.
 - Created `results_and_discussion.md` as a structured draft for the ICEE paper.
@@ -204,3 +204,5 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `swot_analysis.md` to evaluate the project's strategic position.
 - Created `technology_readiness_level.md` to assess the project's maturity using the TRL scale.
 - Created `fact_sheet.md` to provide a quick, one-page summary of the project.
+### November 21, 2026
+- Created `user_personas.md` to define the target users (patients, doctors, and families).
