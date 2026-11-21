@@ -63,6 +63,7 @@ Here is a categorized guide to what you can find in this repository:
 - 🧮 **[Math Model](math_model.md)** — Mathematical foundations of CS.
 - 🧠 **[Key Concepts](concepts.md)** — Theoretical foundations.
 - 🃏 **[Model Card](model_card.md)** — Details and limitations of the ML model.
+- ⚙️ **[TinyML Optimization](tinyml_optimization.md)** — Techniques for running AI on microcontrollers.
 
 ### 🔌 Hardware & Embedded Systems
 - 💻 **[Embedded C Code](embedded_c_code.c)** — C implementation for microcontrollers.
