@@ -77,6 +77,7 @@ Here is a categorized guide to what you can find in this repository:
 - 🏗️ **[System Architecture](system_architecture.md)** — High-level overview of HW/SW layers.
 - 🛡️ **[Hardware Security](hardware_security.md)** — Secure boot and tamper detection.
 - 🛠️ **[Reliability & Maintenance](reliability_maintenance.md)** — Product lifecycle plan.
+- ⚙️ **[Firmware Architecture](firmware_architecture.md)** — STM32 bare-metal software design.
 
 ### 🩺  Medical & Clinical
 - 🩺 **[Clinical Roadmap](clinical_roadmap.md)** — Steps for clinical validation.
