@@ -131,6 +131,7 @@ Here is a categorized guide to what you can find in this repository:
 - 🏁 **[Conclusion Draft](paper_conclusion_draft.md)** — Final section of the ICEE paper.
 - 📑 **[Full Manuscript](full_paper_manuscript.md)** — Master template linking all paper sections.
 - 🎬 **[Demo Script](demo_script.md)** — 2-minute video presentation script.
+- 🛡️ **[Reviewer Rebuttal Plan](reviewer_rebuttal_plan.md)** — Preparation for ICEE peer-review questions.
 
 ### 🌍 Community & Standards
 - 🤝 **[Contributing](CONTRIBUTING.md)** — Guidelines for open-source contributions.
