@@ -79,6 +79,7 @@ Here is a categorized guide to what you can find in this repository:
 - 🛠️ **[Reliability & Maintenance](reliability_maintenance.md)** — Product lifecycle plan.
 - ⚙️ **[Firmware Architecture](firmware_architecture.md)** — STM32 bare-metal software design.
 - 🧬 **[Next-Gen Biosensors](next_gen_biosensors.md)** — Future roadmap for biomarker detection.
+- 🛠️ **[Assembly Guide](assembly_guide.md)** — Step-by-step PCB soldering and testing.
   
 ### 🩺  Medical & Clinical
 - 🩺 **[Clinical Roadmap](clinical_roadmap.md)** — Steps for clinical validation.
