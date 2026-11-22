@@ -212,3 +212,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Updated `README.fa.md` to match the new categorized structure of the English README.
 - Created `next_gen_biosensors.md` to outline future expansions (flexible electronics, energy harvesting, and biomarker detection).
 - Created `eeg_integration.md` to outline the expansion to brain signal (EEG) monitoring.
+- Created `assembly_guide.md` to document the physical PCB assembly and testing process.
