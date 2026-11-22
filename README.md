@@ -78,7 +78,8 @@ Here is a categorized guide to what you can find in this repository:
 - 🛡️ **[Hardware Security](hardware_security.md)** — Secure boot and tamper detection.
 - 🛠️ **[Reliability & Maintenance](reliability_maintenance.md)** — Product lifecycle plan.
 - ⚙️ **[Firmware Architecture](firmware_architecture.md)** — STM32 bare-metal software design.
-
+- 🧬 **[Next-Gen Biosensors](next_gen_biosensors.md)** — Future roadmap for biomarker detection.
+  
 ### 🩺  Medical & Clinical
 - 🩺 **[Clinical Roadmap](clinical_roadmap.md)** — Steps for clinical validation.
 - 🏥 **[Clinical & Safety](clinical_safety.md)** — Medical standards (IEC 60601, ISO 10993).
