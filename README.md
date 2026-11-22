@@ -88,7 +88,8 @@ Here is a categorized guide to what you can find in this repository:
 - ⚖️ **[Ethical Framework](ethical_framework.md)** — AI ethics and patient rights.
 - ⚠️ **[Risk Analysis](risk_analysis.md)** — FMEA and safety mitigation strategies.
 - 📋 **[Clinical Trial Protocol](clinical_trial_protocol.md)** — Design for the human pilot study.
-
+- 🧠 **[EEG Integration](eeg_integration.md)** — Future roadmap for brain signal monitoring.
+- 
 ### 📊 Business & Commercialization
 - 💼 **[Business Model](business_model.md)** — Value proposition and revenue streams.
 - 📈 **[Business Model Canvas](business_model_canvas.md)** — Visual summary of the model.
@@ -154,10 +155,7 @@ Here is a categorized guide to what you can find in this repository:
 - 🖼️ **[Project Visuals](visuals.md)** — Planned plots.
 - ❓ **[FAQ](faq.md)** — Frequently asked questions.
 - 🚀 **[Pitch Summary](pitch_summary.md)** — Quick overview.
-## 🌱 Current Status
-- 🧪 Actively building my foundation in Biomedical Signal Processing and embedded systems.
-- 📅 Preparing a research proposal for the Khwarizmi International Award (submission in Fall 2027).
-- 🎤 Preparing a paper for the 33rd Iranian Conference on Electrical Engineering (ICEE 2027) in May 2027.
+
 ## 🚀 How to Run the Code
 
 If you want to run the Python scripts in this repository:
@@ -168,3 +166,8 @@ If you want to run the Python scripts in this repository:
    `python ecg_simulation.py`
 4. Run the Compressive Sensing demo:
    `python compressed_sensing_demo.py`
+
+## 🌱 Current Status
+- 🧪 Actively building my foundation in Biomedical Signal Processing and embedded systems.
+- 🎤 Preparing a paper for the 33rd Iranian Conference on Electrical Engineering (ICEE 2027) in May 2027.
+- 📅 Preparing a research proposal for the Khwarizmi International Award (submission in Fall 2027).
