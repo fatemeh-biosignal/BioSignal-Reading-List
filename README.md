@@ -81,6 +81,7 @@ Here is a categorized guide to what you can find in this repository:
 - ⚙️ **[Firmware Architecture](firmware_architecture.md)** — STM32 bare-metal software design.
 - 🧬 **[Next-Gen Biosensors](next_gen_biosensors.md)** — Future roadmap for biomarker detection.
 - 🛠️ **[Assembly Guide](assembly_guide.md)** — Step-by-step PCB soldering and testing.
+- 📊 **[Hardware Validation](hardware_validation_metrics.md)** — Metrics for testing the physical prototype.
   
 ### 🩺  Medical & Clinical
 - 🩺 **[Clinical Roadmap](clinical_roadmap.md)** — Steps for clinical validation.
@@ -171,5 +172,5 @@ If you want to run the Python scripts in this repository:
 
 ## 🌱 Current Status
 - 🧪 Actively building my foundation in Biomedical Signal Processing and embedded systems.
-- 🎤 Preparing a paper for the 33rd Iranian Conference on Electrical Engineering (ICEE 2027) in May 2027.
 - 📅 Preparing a research proposal for the Khwarizmi International Award (submission in Fall 2027).
+- 🎤 Preparing a paper for the 33rd Iranian Conference on Electrical Engineering (ICEE 2027) in May 2027.
