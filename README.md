@@ -35,6 +35,7 @@ Here is a categorized guide to what you can find in this repository:
 - 📈 **[TRL Assessment](technology_readiness_level.md)** — Technology readiness level (TRL 1-9).
 - 📄 **[Fact Sheet](fact_sheet.md)** — One-page overview of the entire project.
 - 👤 **[User Personas](user_personas.md)** — Target users and their clinical needs.
+- 📋 **[To-Do List](todo_list.md)** — Immediate next steps for hardware and validation.
 
 ### 💻 Software & Algorithms
 - 🚀 **[Main Pipeline](main.py)** — The main script to run the entire project.
