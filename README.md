@@ -82,6 +82,7 @@ Here is a categorized guide to what you can find in this repository:
 - 🧬 **[Next-Gen Biosensors](next_gen_biosensors.md)** — Future roadmap for biomarker detection.
 - 🛠️ **[Assembly Guide](assembly_guide.md)** — Step-by-step PCB soldering and testing.
 - 📊 **[Hardware Validation](hardware_validation_metrics.md)** — Metrics for testing the physical prototype.
+  - 📱 **[Mobile App UI/UX](mobile_app_ui_design.md)** — Design and user flow for the patient and doctor apps.
   
 ### 🩺  Medical & Clinical
 - 🩺 **[Clinical Roadmap](clinical_roadmap.md)** — Steps for clinical validation.
