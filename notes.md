@@ -218,3 +218,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `hardware_validation_metrics.md` to define SNR, BLE reliability, and thermal safety tests.
 - Created `mobile_app_ui_design.md` to define the UI/UX for the patient and doctor applications.
 - Created `qms_plan.md` to establish a Quality Management System (ISO 13485) for regulatory compliance.
+- Created `traceability_matrix.md` to ensure all requirements are verified by tests.
