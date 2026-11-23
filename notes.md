@@ -215,3 +215,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `assembly_guide.md` to document the physical PCB assembly and testing process.
 ### November 23, 2026
 - Created `todo_list.md` to track immediate procurement and validation tasks.
+- Created `hardware_validation_metrics.md` to define SNR, BLE reliability, and thermal safety tests.
