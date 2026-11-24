@@ -98,7 +98,8 @@ Here is a categorized guide to what you can find in this repository:
 - 🧠 **[EEG Integration](eeg_integration.md)** — Future roadmap for brain signal monitoring.
 - 📋 **[QMS Plan](qms_plan.md)** — Quality Management System based on ISO 13485.
 - 🔗 **[Traceability Matrix](traceability_matrix.md)** — Mapping requirements to test cases.
-- 
+- 🌐 **[Cardiovascular Tech Landscape](cardiovascular_tech_landscape.md)** — Positioning BioSignal in the broader MedTech ecosystem.
+  
 ### 📊 Business & Commercialization
 - 💼 **[Business Model](business_model.md)** — Value proposition and revenue streams.
 - 📈 **[Business Model Canvas](business_model_canvas.md)** — Visual summary of the model.
