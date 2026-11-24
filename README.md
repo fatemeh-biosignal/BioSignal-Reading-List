@@ -99,6 +99,7 @@ Here is a categorized guide to what you can find in this repository:
 - 📋 **[QMS Plan](qms_plan.md)** — Quality Management System based on ISO 13485.
 - 🔗 **[Traceability Matrix](traceability_matrix.md)** — Mapping requirements to test cases.
 - 🌐 **[Cardiovascular Tech Landscape](cardiovascular_tech_landscape.md)** — Positioning BioSignal in the broader MedTech ecosystem.
+- 📋 **[Patient Onboarding SOP](patient_onboarding_sop.md)** — Standard procedure for clinical trial enrollment.
   
 ### 📊 Business & Commercialization
 - 💼 **[Business Model](business_model.md)** — Value proposition and revenue streams.
