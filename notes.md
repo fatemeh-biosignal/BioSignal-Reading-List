@@ -224,3 +224,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `project_mindmap.md` using Mermaid to visualize the entire ecosystem of the project.
 - Created `hardware_debugging_guide.md` to document solutions for common hardware issues.
 - Created `cardiovascular_tech_landscape.md` to map out monitoring, VAD, and artificial heart technologies.
+- Created `patient_onboarding_sop.md` to standardize the patient enrollment process for clinical trials.
