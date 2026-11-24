@@ -223,3 +223,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `data_flow_sequence.md` to visualize the real-time interaction between the sensor, MCU, and mobile app.
 - Created `project_mindmap.md` using Mermaid to visualize the entire ecosystem of the project.
 - Created `hardware_debugging_guide.md` to document solutions for common hardware issues.
+- Created `cardiovascular_tech_landscape.md` to map out monitoring, VAD, and artificial heart technologies.
