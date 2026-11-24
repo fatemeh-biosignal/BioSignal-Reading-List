@@ -221,3 +221,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `traceability_matrix.md` to ensure all requirements are verified by tests.
 ### November 24, 2026
 - Created `data_flow_sequence.md` to visualize the real-time interaction between the sensor, MCU, and mobile app.
+- Created `project_mindmap.md` using Mermaid to visualize the entire ecosystem of the project.
