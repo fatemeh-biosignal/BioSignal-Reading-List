@@ -225,3 +225,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `hardware_debugging_guide.md` to document solutions for common hardware issues.
 - Created `cardiovascular_tech_landscape.md` to map out monitoring, VAD, and artificial heart technologies.
 - Created `patient_onboarding_sop.md` to standardize the patient enrollment process for clinical trials.
+- Created `usability_engineering_plan.md` to ensure the device is safe for elderly patients.
