@@ -102,6 +102,7 @@ Here is a categorized guide to what you can find in this repository:
 - 📋 **[Patient Onboarding SOP](patient_onboarding_sop.md)** — Standard procedure for clinical trial enrollment.
 - 🧑‍⚕️ **[Usability Engineering](usability_engineering_plan.md)** — IEC 62366 human factors plan.
 - ✍️ **[Informed Consent Template](informed_consent_template.md)** — Ethical consent form for clinical trials.
+- 🚨 **[Post-Market Surveillance](post_market_surveillance.md)** — Plan for monitoring device safety after release.
   
 ### 📊 Business & Commercialization
 - 💼 **[Business Model](business_model.md)** — Value proposition and revenue streams.
