@@ -230,3 +230,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 ### November 25, 2026
 - Created `post_market_surveillance.md` to outline the vigilance and CAPA process for the commercial phase.
 - Created `training_support_plan.md` to outline the onboarding and support strategy for hospitals.
+- Created `cybersecurity_threat_model.md` to address FDA cybersecurity requirements and STRIDE threats.
