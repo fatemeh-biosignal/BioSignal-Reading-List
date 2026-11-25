@@ -37,6 +37,7 @@ Here is a categorized guide to what you can find in this repository:
 - 👤 **[User Personas](user_personas.md)** — Target users and their clinical needs.
 - 📋 **[To-Do List](todo_list.md)** — Immediate next steps for hardware and validation.
 - 🧠 **[Project Mind Map](project_mindmap.md)** — Holistic view of hardware, software, AI, and business.
+- 🌱 **[Environmental Impact](environmental_impact_plan.md)** — Sustainability and e-waste management.
 
 ### 💻 Software & Algorithms
 - 🚀 **[Main Pipeline](main.py)** — The main script to run the entire project.
