@@ -86,6 +86,7 @@ Here is a categorized guide to what you can find in this repository:
   - 📱 **[Mobile App UI/UX](mobile_app_ui_design.md)** — Design and user flow for the patient and doctor apps.
 - 🔄 **[Data Flow Sequence](data_flow_sequence.md)** — Step-by-step interaction between hardware and software.
 - 🐞 **[Hardware Debugging](hardware_debugging_guide.md)** — Troubleshooting guide for the physical prototype.
+- 🛡️ **[Threat Model](cybersecurity_threat_model.md)** — STRIDE analysis and cybersecurity mitigations.
 
 ### 🩺  Medical & Clinical
 - 🩺 **[Clinical Roadmap](clinical_roadmap.md)** — Steps for clinical validation.
