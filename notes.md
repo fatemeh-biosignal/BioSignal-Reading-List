@@ -236,3 +236,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `data_dictionary.md` to standardize data types for the software and database.
 - Created `api_specification.md` to define the backend API architecture and endpoints.
 - Created `wearable_tech_comparison.md` to compare BioSignal with emerging wearables like smart rings.
+- Created `sleep_and_ppg_integration.md` to outline future expansions into sleep and stress monitoring.
