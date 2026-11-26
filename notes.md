@@ -234,3 +234,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `environmental_impact_plan.md` to address e-waste and sustainable design.
 ### November 26, 2026
 - Created `data_dictionary.md` to standardize data types for the software and database.
+- Created `api_specification.md` to define the backend API architecture and endpoints.
