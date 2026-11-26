@@ -108,7 +108,7 @@ Here is a categorized guide to what you can find in this repository:
 - ✍️ **[Informed Consent Template](informed_consent_template.md)** — Ethical consent form for clinical trials.
 - 🚨 **[Post-Market Surveillance](post_market_surveillance.md)** — Plan for monitoring device safety after release.
 - ⌚ **[Wearable Tech Comparison](wearable_tech_comparison.md)** — Comparing ECG patches with smart rings and watches.
-
+- 😴 **[Sleep & PPG Integration](sleep_and_ppg_integration.md)** — Roadmap for sleep staging and stress monitoring.
   
 ### 📊 Business & Commercialization
 - 💼 **[Business Model](business_model.md)** — Value proposition and revenue streams.
