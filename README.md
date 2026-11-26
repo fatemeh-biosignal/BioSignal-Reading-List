@@ -111,6 +111,7 @@ Here is a categorized guide to what you can find in this repository:
 - 🚨 **[Post-Market Surveillance](post_market_surveillance.md)** — Plan for monitoring device safety after release.
 - ⌚ **[Wearable Tech Comparison](wearable_tech_comparison.md)** — Comparing ECG patches with smart rings and watches.
 - 😴 **[Sleep & PPG Integration](sleep_and_ppg_integration.md)** — Roadmap for sleep staging and stress monitoring.
+- 🧠 **[BCI & Neuroethics](bci_neuroethics_roadmap.md)** — Future roadmap for brain monitoring and mental privacy.
   
 ### 📊 Business & Commercialization
 - 💼 **[Business Model](business_model.md)** — Value proposition and revenue streams.
