@@ -91,6 +91,7 @@ Here is a categorized guide to what you can find in this repository:
 - 🐞 **[Hardware Debugging](hardware_debugging_guide.md)** — Troubleshooting guide for the physical prototype.
 - 🛡️ **[Threat Model](cybersecurity_threat_model.md)** — STRIDE analysis and cybersecurity mitigations.
 - 📐 **[Mechanical Design](mechanical_design.md)** — Enclosure materials and ergonomics.
+- 🧬 **[Multi-Modal Sensing](multimodal_sensing_strategy.md)** — Future strategy for combining ECG, PPG, and ACC data.
 
 ### 🩺  Medical & Clinical
 - 🩺 **[Clinical Roadmap](clinical_roadmap.md)** — Steps for clinical validation.
