@@ -59,6 +59,7 @@ Here is a categorized guide to what you can find in this repository:
 - ⚙️ **[Requirements](requirements.txt)** — Dependencies for running the code.
 - ⚙️ **[Setup Guide](setup_guide.md)** — Instructions for setting up the environment.
 - 🏗️ **[Software Design](software_design.md)** — Architecture of the Python modules.
+- 📊 **[Data Dictionary](data_dictionary.md)** — Definitions of all data fields and types.
 
 ### 🧠 AI & Machine Learning
 - 🤖 **[TinyML Classifier](tinyml_classifier.py)** — Machine learning model for arrhythmia detection.
