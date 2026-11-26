@@ -232,3 +232,5 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `training_support_plan.md` to outline the onboarding and support strategy for hospitals.
 - Created `cybersecurity_threat_model.md` to address FDA cybersecurity requirements and STRIDE threats.
 - Created `environmental_impact_plan.md` to address e-waste and sustainable design.
+### November 26, 2026
+- Created `data_dictionary.md` to standardize data types for the software and database.
