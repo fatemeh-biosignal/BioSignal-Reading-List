@@ -38,7 +38,7 @@ Here is a categorized guide to what you can find in this repository:
 - 📋 **[To-Do List](todo_list.md)** — Immediate next steps for hardware and validation.
 - 🧠 **[Project Mind Map](project_mindmap.md)** — Holistic view of hardware, software, AI, and business.
 - 🌱 **[Environmental Impact](environmental_impact_plan.md)** — Sustainability and e-waste management.
-- 🔬 **[Digital Pathology Roadmap](digital_pathology_roadmap.md)** — Bridging ECG signals with future tissue analysis.
+- 🔬 **[Advanced Diagnostics](advanced_diagnostics_roadmap.md)** — Future roadmap for AI-assisted medical imaging.
 
 ### 💻 Software & Algorithms
 - 🚀 **[Main Pipeline](main.py)** — The main script to run the entire project.
