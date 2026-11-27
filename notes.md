@@ -238,3 +238,5 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `mechanical_design.md` to define the physical casing, materials, and IP67 waterproofing.
 - Created `multimodal_sensing_strategy.md` to outline the integration of PPG and accelerometer data for advanced screening.
 - Created `bci_neuroethics_roadmap.md` to outline future EEG integration and ethical boundaries.
+### November 27, 2026
+- Created `signal_quality_assessment.md` to highlight the importance of raw data access in clinical research.
