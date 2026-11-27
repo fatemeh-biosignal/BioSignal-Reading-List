@@ -136,6 +136,7 @@ Here is a categorized guide to what you can find in this repository:
 - 🔄 **[User Feedback Plan](user_feedback_plan.md)** — Strategy for collecting feedback and iterating.
 - 📊 **[SWOT Analysis](swot_analysis.md)** — Strategic analysis of strengths and threats.
 - 🎓 **[Training & Support](training_support_plan.md)** — Strategy for training doctors and supporting patients.
+- 🏭 **[Manufacturing Plan](manufacturing_supply_chain.md)** — Sourcing strategy and production phases.
 
 ### 📚 Research & Publications
 - ✍️ **[Paper Abstract](paper_abstract.md)** — Draft for ICEE 2027.
