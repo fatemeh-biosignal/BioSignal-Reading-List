@@ -87,7 +87,7 @@ Here is a categorized guide to what you can find in this repository:
 - 🧬 **[Next-Gen Biosensors](next_gen_biosensors.md)** — Future roadmap for biomarker detection.
 - 🛠️ **[Assembly Guide](assembly_guide.md)** — Step-by-step PCB soldering and testing.
 - 📊 **[Hardware Validation](hardware_validation_metrics.md)** — Metrics for testing the physical prototype.
-  - 📱 **[Mobile App UI/UX](mobile_app_ui_design.md)** — Design and user flow for the patient and doctor apps.
+- 📱 **[Mobile App UI/UX](mobile_app_ui_design.md)** — Design and user flow for the patient and doctor apps.
 - 🔄 **[Data Flow Sequence](data_flow_sequence.md)** — Step-by-step interaction between hardware and software.
 - 🐞 **[Hardware Debugging](hardware_debugging_guide.md)** — Troubleshooting guide for the physical prototype.
 - 🛡️ **[Threat Model](cybersecurity_threat_model.md)** — STRIDE analysis and cybersecurity mitigations.
@@ -108,7 +108,7 @@ Here is a categorized guide to what you can find in this repository:
 - 🌐 **[Cardiovascular Tech Landscape](cardiovascular_tech_landscape.md)** — Positioning BioSignal in the broader MedTech ecosystem.
 - 📋 **[Patient Onboarding SOP](patient_onboarding_sop.md)** — Standard procedure for clinical trial enrollment.
 - 🧑‍⚕️ **[Usability Engineering](usability_engineering_plan.md)** — IEC 62366 human factors plan.
-- ✍️ **[Informed Consent Template](informed_consent_template.md)** — Ethical consent form for clinical trials.
+- ✍️ **[Informed Consent](informed_consent_template.md)** — Ethical consent form for clinical trials.
 - 🚨 **[Post-Market Surveillance](post_market_surveillance.md)** — Plan for monitoring device safety after release.
 - ⌚ **[Wearable Tech Comparison](wearable_tech_comparison.md)** — Comparing ECG patches with smart rings and watches.
 - 😴 **[Sleep & PPG Integration](sleep_and_ppg_integration.md)** — Roadmap for sleep staging and stress monitoring.
