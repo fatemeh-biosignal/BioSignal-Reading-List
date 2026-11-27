@@ -108,7 +108,7 @@ Here is a categorized guide to what you can find in this repository:
 - 🌐 **[Cardiovascular Tech Landscape](cardiovascular_tech_landscape.md)** — Positioning BioSignal in the broader MedTech ecosystem.
 - 📋 **[Patient Onboarding SOP](patient_onboarding_sop.md)** — Standard procedure for clinical trial enrollment.
 - 🧑‍⚕️ **[Usability Engineering](usability_engineering_plan.md)** — IEC 62366 human factors plan.
-- ✍️ **[Informed Consent](informed_consent_template.md)** — Ethical consent form for clinical trials.
+- ✍️ **[Informed Consent](informed_consent/informed_consent_template.md)** — Ethical consent form for clinical trials.
 - 🚨 **[Post-Market Surveillance](post_market_surveillance.md)** — Plan for monitoring device safety after release.
 - ⌚ **[Wearable Tech Comparison](wearable_tech_comparison.md)** — Comparing ECG patches with smart rings and watches.
 - 😴 **[Sleep & PPG Integration](sleep_and_ppg_integration.md)** — Roadmap for sleep staging and stress monitoring.
