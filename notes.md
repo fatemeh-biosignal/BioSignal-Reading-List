@@ -242,3 +242,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `signal_quality_assessment.md` to highlight the importance of raw data access in clinical research.
 - Created `advanced_diagnostics_roadmap.md` to outline future expansions into medical image analysis.
 - Created `biocompatibility_testing_plan.md` to ensure the device is safe for long-term skin wear.
+- Created `manufacturing_supply_chain.md` to plan for mass production and mitigate supply chain risks.
