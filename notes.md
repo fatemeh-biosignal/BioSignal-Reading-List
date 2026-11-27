@@ -240,3 +240,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `bci_neuroethics_roadmap.md` to outline future EEG integration and ethical boundaries.
 ### November 27, 2026
 - Created `signal_quality_assessment.md` to highlight the importance of raw data access in clinical research.
+- Created `digital_pathology_roadmap.md` to align the project with future pathology specialization.
