@@ -114,6 +114,7 @@ Here is a categorized guide to what you can find in this repository:
 - 😴 **[Sleep & PPG Integration](sleep_and_ppg_integration.md)** — Roadmap for sleep staging and stress monitoring.
 - 🧠 **[BCI & Neuroethics](bci_neuroethics_roadmap.md)** — Future roadmap for brain monitoring and mental privacy.
 - 📊 **[Signal Quality](signal_quality_assessment.md)** — Why BioSignal's open-source data is better than commercial black boxes.
+- 🧪 **[Biocompatibility Testing](biocompatibility_testing_plan.md)** — ISO 10993 plan for safe skin contact.
   
 ### 📊 Business & Commercialization
 - 💼 **[Business Model](business_model.md)** — Value proposition and revenue streams.
