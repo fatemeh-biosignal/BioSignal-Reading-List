@@ -175,6 +175,7 @@ Here is a categorized guide to what you can find in this repository:
 - 🌐 **[Emerging Tech](emerging_tech_integration.md)** — 6G, GenAI, Digital Twins.
 - 🌍 **[Social Impact](social_impact.md)** — Healthcare and economic impact.
 - 🏷️ **[Release Strategy](release_strategy.md)** — Versioning scheme and release cycle.
+- 🐞 **[Bug Report Template](bug_report_template.md)** — Standard template for reporting issues.
 
 ### 📝 General & Notes
 - 📖 **[Glossary](glossary.md)** — Medical and technical terms.
