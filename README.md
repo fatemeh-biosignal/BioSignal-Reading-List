@@ -174,6 +174,7 @@ Here is a categorized guide to what you can find in this repository:
 - 📊 **[Data Availability](data_availability.md)** — Statement on data access.
 - 🌐 **[Emerging Tech](emerging_tech_integration.md)** — 6G, GenAI, Digital Twins.
 - 🌍 **[Social Impact](social_impact.md)** — Healthcare and economic impact.
+- 🏷️ **[Release Strategy](release_strategy.md)** — Versioning scheme and release cycle.
 
 ### 📝 General & Notes
 - 📖 **[Glossary](glossary.md)** — Medical and technical terms.
