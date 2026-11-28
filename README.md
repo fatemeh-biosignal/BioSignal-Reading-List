@@ -115,6 +115,7 @@ Here is a categorized guide to what you can find in this repository:
 - 🧠 **[BCI & Neuroethics](bci_neuroethics_roadmap.md)** — Future roadmap for brain monitoring and mental privacy.
 - 📊 **[Signal Quality](signal_quality_assessment.md)** — Why BioSignal's open-source data is better than commercial black boxes.
 - 🧪 **[Biocompatibility Testing](biocompatibility/biocompatibility_testing_plan.md)** — ISO 10993 plan for safe skin contact.
+- 🤖 **[Future MedTech Trends](future_medtech_trends.md)** — Integration of robotics and targeted drug delivery.
   
 ### 📊 Business & Commercialization
 - 💼 **[Business Model](business_model.md)** — Value proposition and revenue streams.
