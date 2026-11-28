@@ -248,3 +248,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `bug_report_template.md` to standardize issue reporting for open-source contributors.
 - Created `future_medtech_trends.md` to explore closed-loop healthcare and targeted drug delivery.
 - Created `metabolic_wearables_integration.md` to explore combining ECG with biochemical sensors.
+- Created `research_integrity_coi.md` to formally declare no conflicts of interest and ensure data authenticity.
