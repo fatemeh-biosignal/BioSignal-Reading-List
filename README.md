@@ -116,6 +116,7 @@ Here is a categorized guide to what you can find in this repository:
 - 📊 **[Signal Quality](signal_quality_assessment.md)** — Why BioSignal's open-source data is better than commercial black boxes.
 - 🧪 **[Biocompatibility Testing](biocompatibility/biocompatibility_testing_plan.md)** — ISO 10993 plan for safe skin contact.
 - 🤖 **[Future MedTech Trends](future_medtech_trends.md)** — Integration of robotics and targeted drug delivery.
+- 🩸 **[Metabolic Integration](metabolic_wearables_integration.md)** — Future roadmap for glucose and lactate monitoring.
   
 ### 📊 Business & Commercialization
 - 💼 **[Business Model](business_model.md)** — Value proposition and revenue streams.
