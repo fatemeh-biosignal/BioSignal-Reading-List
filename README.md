@@ -178,6 +178,7 @@ Here is a categorized guide to what you can find in this repository:
 - 🌍 **[Social Impact](social_impact.md)** — Healthcare and economic impact.
 - 🏷️ **[Release Strategy](release_strategy.md)** — Versioning scheme and release cycle.
 - 🐞 **[Bug Report Template](bug_report_template.md)** — Standard template for reporting issues.
+- ⚖️ **[Research Integrity](research_integrity_coi.md)** — COI declaration and ethical standards.
 
 ### 📝 General & Notes
 - 📖 **[Glossary](glossary.md)** — Medical and technical terms.
