@@ -246,3 +246,4 @@ Short notes and observations from my daily reading on biomedical signal processi
 ### November 28, 2026
 - Created `release_strategy.md` to define semantic versioning and the release cycle.
 - Created `bug_report_template.md` to standardize issue reporting for open-source contributors.
+- Created `future_medtech_trends.md` to explore closed-loop healthcare and targeted drug delivery.
