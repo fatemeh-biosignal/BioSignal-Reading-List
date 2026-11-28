@@ -71,6 +71,7 @@ Here is a categorized guide to what you can find in this repository:
 - 🧠 **[Key Concepts](concepts.md)** — Theoretical foundations.
 - 🃏 **[Model Card](model_card.md)** — Details and limitations of the ML model.
 - ⚙️ **[TinyML Optimization](tinyml_optimization.md)** — Techniques for running AI on microcontrollers.
+- 📡 **[MLOps & Monitoring](mlops_monitoring_plan.md)** — Model drift detection and continuous learning.
 
 ### 🔌 Hardware & Embedded Systems
 - 💻 **[Embedded C Code](embedded_c_code.c)** — C implementation for microcontrollers.
