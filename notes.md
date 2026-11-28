@@ -243,3 +243,6 @@ Short notes and observations from my daily reading on biomedical signal processi
 - Created `advanced_diagnostics_roadmap.md` to outline future expansions into medical image analysis.
 - Created `biocompatibility_testing_plan.md` to ensure the device is safe for long-term skin wear.
 - Created `manufacturing_supply_chain.md` to plan for mass production and mitigate supply chain risks.
+### November 28, 2026
+- Created `release_strategy.md` to define semantic versioning and the release cycle.
+- Created `bug_report_template.md` to standardize issue reporting for open-source contributors.
