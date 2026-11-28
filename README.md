@@ -39,6 +39,7 @@ Here is a categorized guide to what you can find in this repository:
 - 🧠 **[Project Mind Map](project_mindmap.md)** — Holistic view of hardware, software, AI, and business.
 - 🌱 **[Environmental Impact](environmental_impact_plan.md)** — Sustainability and e-waste management.
 - 🔬 **[Advanced Diagnostics](advanced_diagnostics_roadmap.md)** — Future roadmap for AI-assisted medical imaging.
+- 🎯 **[Project KPIs](project_kpis.md)** — Measurable metrics for technical and clinical success.
 
 ### 💻 Software & Algorithms
 - 🚀 **[Main Pipeline](main.py)** — The main script to run the entire project.
